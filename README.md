@@ -5,9 +5,6 @@
 
 `rake` will start a filesystem watcher to auto-gen the slides when slides/slides.me changes.
 
-* init.txt was my reminders for the stuff I needed before I started talking
-* project.clj and src/demo/core.clj define a clojure project for playing
-* mailbox.rb is taken from https://github.com/joelash/mailbox
-* time.avi is a clip from "The Man From Earth"
-* todo was my plan
+* init.txt was our reminders for the stuff we needed before we started talking
+* todo was our plan
 * slides/ are my slides

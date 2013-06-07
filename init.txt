@@ -2,7 +2,5 @@
 - slides
 - terminal
 - emacs
-  - cd ~/code/rubyconf
-  - open demo/core.clj
-  - open mailbox.rbg
-  - clojure-jack-in
+  - cd ~/code/rubyconf-india-2013
+  - open demo/*.rb
