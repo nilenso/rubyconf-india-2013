@@ -17,3 +17,109 @@
 - _why quote about taste vs. creating
   - what about taste in creation?
   - UIs (2 examples for comparison?)
+
+= intro to tao te ching =
+
+- translations
+- victor h. mair transcript, poems out of order (we'll use the serial order from the old manuscript)
+- taoist philosophy: nature, the way, the perfect man
+- taoist writing: double-entendres, paradoxes, humour
+
+= zero: a warning on the flaw of communication =
+
+- #1: "the tao that can be told is not the eternal tao. the name that can be named is not the eternal name."
+- taoism refers to the only permanent thing (perhaps a non-thing) as "tao"
+- whatever we say today is, by definition, flawed and impermanent
+
+- #32: "there are already enough names. we need to know when to stop."
+- as developers we love to talk things to death
+- we may be overstepping our bounds by trying to find great meaning in what we do. forgive us.
+
+= one: on naming =
+
+- #32: "there are already enough names. we need to know when to stop."
+- names, patterns, abstractions -- when is it too much?
+
+- meta: GoF "pattern" of Interpreter -- wat. (vs. Flyweight or Iterator, say)
+  - TODO: is there something better than this?
+
+- TODO: code example: things over-named or under-namespaced
+
+- keys/maps, examples (hashes, PAN card #, SIN, json, mongodb)
+  - we like one-step table lookups.
+  - airindia: if I need ALL my information to check in at a kiosk, I AM THE KEY
+
+= two: on returning =
+
+- _why: 
+
+- #2: "the ten thousand things rise and fall without cease. 
+       creating, yet not possessing. 
+       working, yet not taking credit.
+       work is done, then forgotten.
+       therefore it lasts forever."
+
+- #9: "retire when the work is done."
+
+- #12: "racing and hunting madden the mind." ?
+
+- #13: "accept being unimportant."
+
+- #16: "the way of nature is unchanging.
+        knowing constancy is insight.
+        not knowing constancy leads to disaster."
+
+- #23: "high winds to not last all morning.
+        heavy rain does not last all day.
+        why is this? heaven and earth!
+        if heaven and earth cannot make things last forever,
+        how is it possible for us?"
+
+- TODO: code example: simple => complex => refactored / eliminated
+
+= three: on usefulness =
+
+- #11
+
+= four: on humility =
+
+- #7: "the wise stay behind, and are thus ahead.
+       they are detached, thus at one with all.
+       through selfless action, they attain fulfillment."
+- #10: "working yet not taking credit."
+- #24
+- #30: "achieve results, but never boast."
+
+- TODO: code example of (not) designing for the future - grandiose plans that failed
+
+= five: on effortlessness =
+
+- #8: "in action, watch the timing."
+- #28: "a great tailor makes few cuts."
+- #30: "force is followed by loss of strenght.
+        this is not the way of the tao.
+        that which goes against the tao
+        comes to an early end."
+
+- working late nights, weekends, "pushing yourself" vs. loving every minute of it
+- TODO: code example of a small, simple, beautiful solution to a problem that has a bigger, obvious solution?
+
+= X: on thift =
+
+- #9: "oversharpen the blade, and the edge will soon blunt.
+       amass a store of gold and jade, and no one can protect it."
+
+- TODO: code example of over-engineering or greed of another form (over-DRYing)
+
+= X: on love =
+
+- #8: "no fight, no blame."
+- #27
+
+= X: on leadership =
+
+- #17: "when actions are performed without unnecessary talk, People say, `We did it!`"
+
+- leading a team, not claiming
+- TODO: code example?
+
