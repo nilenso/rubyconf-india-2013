@@ -8,12 +8,13 @@
 
 = random =
 
+- http://www.geekfarm.org/cgi-bin/tao.pl
+
 - keys/maps, examples (hashes, PAN card #, SIN, json, mongodb)
   - we like one-step table lookups.
   - airindia: if I need ALL my information to check in at a kiosk, I AM THE KEY
 - concurrency is the new memory management
-- repl/rails console
-- wheel wright: effortlessness (non-action)
+
 - _why quote about taste vs. creating
   - what about taste in creation?
   - UIs (2 examples for comparison?)
@@ -23,7 +24,7 @@
 - translations
 - victor h. mair transcript, poems out of order (we'll use the serial order from the old manuscript)
 - taoist philosophy: nature, the way, the perfect man
-- taoist writing: double-entendres, paradoxes, humour
+- taoist writing: double-entendres, paradoxes, humour, poetic/musical quality
 
 = zero: a warning on the flaw of communication =
 
@@ -42,16 +43,19 @@
 
 - meta: GoF "pattern" of Interpreter -- wat. (vs. Flyweight or Iterator, say)
   - TODO: is there something better than this?
-
-- TODO: code example: things over-named or under-namespaced
+  - why do we have patterns at all? (vs. libraries)
+- FRP is just stream processing?
 
 - keys/maps, examples (hashes, PAN card #, SIN, json, mongodb)
   - we like one-step table lookups.
   - airindia: if I need ALL my information to check in at a kiosk, I AM THE KEY
 
+- TODO: code example: things over-named or under-namespaced (long names)
+                      over-DRYing
+
 = two: on returning =
 
-- _why: 
+- _why: CLOSURE.pdf, pg 23
 
 - #2: "the ten thousand things rise and fall without cease. 
        creating, yet not possessing. 
@@ -75,46 +79,77 @@
         if heaven and earth cannot make things last forever,
         how is it possible for us?"
 
-- TODO: code example: simple => complex => refactored / eliminated
+- TODO: code example: simple => complex => refactored / *eliminated* (arel?)
+
+- TODO: ruby object lifecycle animation
+  1. lifecycle (create/destroy hooks) logging
+  2. log/stdout => animation (processing?)
+  3. references logging
+  4. messages logging
+  5. cute example app (camping?)
 
 = three: on usefulness =
 
 - #11
+- we read/write code but don't know about:
+  - runtime
+  - CPU caches
+  - words in memory
+  - pointers, etc.
 
 = four: on humility =
+
+- do we want this at all?
 
 - #7: "the wise stay behind, and are thus ahead.
        they are detached, thus at one with all.
        through selfless action, they attain fulfillment."
-- #10: "working yet not taking credit."
+- #10: "working yet not taking credit." / "can you be without cleverness?"
 - #24
 - #30: "achieve results, but never boast."
+- "a journey of a thousand miles" ? "give as much care to the end as the beginning."
+
+- zen of python
 
 - TODO: code example of (not) designing for the future - grandiose plans that failed
+        code example of cleverness = bad
 
 = five: on effortlessness =
 
 - #8: "in action, watch the timing."
 - #28: "a great tailor makes few cuts."
-- #30: "force is followed by loss of strenght.
+- #30: "force is followed by loss of strength.
         this is not the way of the tao.
         that which goes against the tao
         comes to an early end."
 
-- working late nights, weekends, "pushing yourself" vs. loving every minute of it
-- TODO: code example of a small, simple, beautiful solution to a problem that has a bigger, obvious solution?
+- repl/rails console
+  - wheel wright (cannot teach my son) / butcher never blunts his knife / "a good tailor makes few cuts."
+  - idea => experiment => (TDD?) => program  : assists effortlessness
+  - 1) how to achieve effortlessness? practice.
+  - 2) "a journey of a thousand miles" small steps. #63 + #64
+  - alan kay tennis video
 
-= X: on thift =
+- working late nights, weekends, "pushing yourself" vs. loving every minute of it
+  - the story of the developer who actually went crazy:
+    http://startingdotneprogramming.blogspot.in/2013/04/i-knew-programmer-that-went-completely.html
+
+= X: on thrift (effortlessness? greed? desire?) =
 
 - #9: "oversharpen the blade, and the edge will soon blunt.
        amass a store of gold and jade, and no one can protect it."
 
-- TODO: code example of over-engineering or greed of another form (over-DRYing)
+- "thrift" as minimalism
+
+- TODO: premature optimization + "beautiful" but slow (android dev docs: don't create too many objs)
 
 = X: on love =
 
 - #8: "no fight, no blame."
 - #27
+- #49: "I am also good to those who are not good."
+
+- consulting tie-in? patience?
 
 = X: on leadership =
 
@@ -123,3 +158,20 @@
 - leading a team, not claiming
 - TODO: code example?
 
+= X: on the simple path =
+
+- "fruit over flowers."
+- "the way is easy to follow but people are enamoured with mountain roads."
+
+- perl-isms
+- over-engineering
+
+= X: constraints & oppression =
+
+- "weapons are instruments of fear."
+- laws create thieves
+- "without awe there will be disaster."
+
+- working under constraints
+  - human constraints (type systems, restrictive APIs)
+  - natural constraints (the limitations of the hardware are God)
