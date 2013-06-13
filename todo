@@ -50,6 +50,11 @@
   - we like one-step table lookups.
   - airindia: if I need ALL my information to check in at a kiosk, I AM THE KEY
 
+- Whitehead: "tree" => "Sam The Tree" => "Sam" at a moment in time
+- Objects:
+  - a "class" => the "Tree" => an "object"
+  - an "object" => a "Tree" object => "Sam the tree" => moment (memento?)
+
 - TODO: code example: things over-named or under-namespaced (long names)
                       over-DRYing
 
