@@ -10,6 +10,14 @@
     /*display: none;*/
 /*}*/
 
+@font-face {
+  font-family: 'Junction';
+  src: url('../font/junction-webfont.eot?v=1.0');
+  src: url('../font/junction-webfont.eot?#iefix&v=1.0') format('embedded-opentype'), url('../font/junction-webfont.woff?v=1.0') format('woff'), url('../font/junction-webfont.ttf?v=1.0') format('truetype'), url('../font/junction-webfont.svg#junctionregular?v=1.0') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .dark {
     background-color: black;
     border: 5px;
@@ -19,27 +27,32 @@
   background-color: #111;
 }
 
-.keydown.deck-container h1 {
+.keydown.deck-container h1,
+.keydown.deck-container h2,
+.keydown.deck-container h3,
+.keydown.deck-container li {
+  font-family: 'Junction';
   color: #fd337d;
 }
 
 /* neon.css overrides: */
 
 .deck-container {
+  font-family: 'Junction';
+  color: #fd337d;
   background: #111;
 }
 
 .deck-container .slide {
+  font-family: 'Junction';
+  color: #fd337d;
   background: #111;
 }
 
-.deck-container h1 {
-  color: #fd337d;
-  /* text-shadow: 0 0 50px #fd337d, 0 0 3px #fff; */
-  text-shadow: none;
-}
-
-.deck-container h2 {
+.deck-container h1,
+.deck-container h2,
+.deck-container h3 {
+  font-family: 'Junction';
   color: #fd337d;
   text-shadow: none;
 }
