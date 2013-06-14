@@ -86,6 +86,8 @@
 
 - TODO: code example: simple => complex => refactored / *eliminated* (arel?)
 
+- TODO: stop-motion animations of "static" things (starfield, rotting fruit, something slower?)
+
 - TODO: ruby object lifecycle animation
   1. lifecycle (create/destroy hooks) logging
   2. log/stdout => animation (processing?)

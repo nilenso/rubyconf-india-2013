@@ -1,6 +1,6 @@
 /* Custom CSS for your KeyDown presentation here */
 
-Uncomment to turn off deck.js navigation
+/* Uncomment to turn off deck.js navigation */
 .deck-prev-link, .deck-next-link {
     display: none;
 }
@@ -13,5 +13,34 @@ Uncomment to turn off deck.js navigation
 .dark {
     background-color: black;
     border: 5px;
+}
+
+.keydown.deck-container .slide {
+  background-color: #111;
+}
+
+.keydown.deck-container h1 {
+  color: #fd337d;
+}
+
+/* neon.css overrides: */
+
+.deck-container {
+  background: #111;
+}
+
+.deck-container .slide {
+  background: #111;
+}
+
+.deck-container h1 {
+  color: #fd337d;
+  /* text-shadow: 0 0 50px #fd337d, 0 0 3px #fff; */
+  text-shadow: none;
+}
+
+.deck-container h2 {
+  color: #fd337d;
+  text-shadow: none;
 }
 

@@ -2,13 +2,14 @@
  
 !SLIDE
 
-# clojure is my favourite ruby
+# Tao of Ruby
 
-## steven@c42.in
+## kitallis@nilenso.com
+## steven@nilenso.com
 
 !SLIDE
 
-# who am I?
+# who are we?
 
 !NOTES
 
@@ -16,13 +17,9 @@ here are some notes
 
 !SLIDE
 
-# Steven Deobald
+# Steven Deobald: @deobald
 
-# .
-# .
-# .
-
-# steven<span style="color: red">@deobald</span>.ca
+# Akshay Gupta: @kitallis
 
 !SLIDE
 
