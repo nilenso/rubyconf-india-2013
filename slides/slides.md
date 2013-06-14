@@ -23,50 +23,11 @@ here are some notes
 
 !SLIDE
 
-![](images/cowboy-shirt.jpg)
+![](images/c42-dark.png)
 
 !SLIDE
 
-![](images/gull-lake.png)
-
-!SLIDE
-
-![](images/gull-lake-road.png)
-
-!SLIDE
-
-![](images/farmers-only.png)
-
-!SLIDE
-
-![](images/not-a-cowboy.jpg)
-
-!SLIDE
-
-### http://c2.com/cgi/wiki?<span style="color: red;">SmugLispWeenie</span>
-
-!SLIDE
-
-![](images/smug-lisp-weenie.jpg)
-
-!SLIDE
-
-![](images/adx.png)
-![](images/thoughtworks.jpg)
-![](images/drw.png)
-
-!SLIDE
-
-![](images/drw.png)
-
-1. t-logger (12 lines of clojure)
-2. market data republisher (300 lines of clojure)
-3. web app + service (2000 lines of clojure)
-4. _trade capture and positions management_ (5000 lines of ruby)
-
-!SLIDE
-
-![](images/c42.png)
+![](images/nilenso.png)
 
 !SLIDE
 
