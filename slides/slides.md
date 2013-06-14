@@ -67,13 +67,15 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-1. what is the tao te ching?
-2. on naming.
-3. on returning.
-4. on usefulness.
-5. on humility.
-6. on effortlessness.
-7. on leadership and love.
+
+#### 00) what is the tao te ching? (00
+#### 0) a warning. (0
+#### 1) on naming. (1
+#### 2) on returning. (2
+#### 3) on usefulness. (3
+#### 4) on humility. (4
+#### 5) on effortlessness. (5
+#### 6) on leadership and love. (6
 
 !SLIDE
 
@@ -90,6 +92,27 @@ kitty is at the beginning of his career, I am at the end of mine.
 !SLIDE
 
 # probably an oral tradition.
+
+!SLIDE
+
+# taoist philosophy (not religion)
+
+# .
+
+## nature
+## "the way"
+## the perfect human
+
+!SLIDE
+
+# taoist writing
+
+# .
+
+## double entendre
+## paradox
+## humour
+## poetic / musical quality
 
 !SLIDE
 
@@ -111,17 +134,88 @@ Time.utc(1973)
 
 !SLIDE
 
+![](images/mawangdui-lao-tsu.jpg)
+
+!SLIDE
+
 @@@ ruby
 Time.utc(-168)
 @@@
 
 !SLIDE
 
-![](images/mawangdui-lao-tsu.jpg)
+![](images/book-nair.png)
 
 !SLIDE
 
-![](images/book-nair.png)
+# a warning
+
+!SLIDE
+
+# poem #1
+
+<br/>
+<span class="highlight">
+  The Tao that can be told is not the eternal Tao.<br/>
+  The name that can be named is not the eternal name.<br/>
+</span>
+The nameless is the beginning of heaven and Earth.<br/>
+The named is the mother of the ten thousand things.<br/>
+Ever desireless, one can see the mystery.<br/>
+Ever desiring, one sees the manifestations.<br/>
+These two spring from the same source but differ in name; this appears as darkness.<br/>
+Darkness within darkness.<br/>
+The gate to all mystery.<br/>
+
+!SLIDE
+
+# only "tao" is permanent
+
+!NOTES
+
+the only permanent thing (or perhaps non-thing) is "tao"
+
+!SLIDE
+
+# whatever we tell you today is inherently flawed and impermanent
+
+!SLIDE
+
+# poem #32
+
+<br/>
+The Tao is forever undefined.<br/>
+Small though it is in the unformed state, it cannot be grasped.<br/>
+If kings and lords could harness it,<br/>
+The ten thousand things would come together<br/>
+And gentle rain fall.<br/>
+Men would need no more instruction and all things would take their course.<br/>
+<span class="highlight">
+  Once the whole is divided, the parts need names.<br/>
+  There are already enough names.<br/>
+  One must know when to stop.<br/>
+  Knowing when to stop averts trouble.<br/>
+</span>
+Tao in the world is like a river flowing home to the sea.<br/>
+
+!SLIDE
+
+# developers love to talk.
+
+!SLIDE
+
+# developers love to make analogies and comparisons.
+
+!SLIDE
+
+TODO: architecture
+TODO: engineering
+TODO: gardening
+TODO: wizards
+
+!SLIDE
+
+# forgive us.
 
 !SLIDE
 

@@ -23,6 +23,10 @@
     border: 5px;
 }
 
+.highlight {
+  color: #eee;
+}
+
 .keydown.deck-container .slide {
   background-color: #111;
 }
