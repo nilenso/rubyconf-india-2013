@@ -2,5 +2,5 @@
 - slides
 - terminal
 - emacs
-  - cd ~/code/rubyconf-india-2013
+  - cd ~/code/tao-of-ruby-talk
   - open demo/*.rb

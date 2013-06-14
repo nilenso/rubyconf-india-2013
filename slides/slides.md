@@ -43,7 +43,7 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-# TODO: <plug>
+# TODO: &lt;plug&gt;
 
 !SLIDE
 
@@ -63,7 +63,7 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-# TODO: </plug>
+# TODO: &lt;/plug&gt; 
 
 !SLIDE
 
@@ -81,7 +81,47 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-# TODO: hey, someone should finish these slides.
+![](images/lao-tzu-riding-an-ox.jpg)
+
+!SLIDE
+
+# probably not.
+
+!SLIDE
+
+# probably an oral tradition.
+
+!SLIDE
+
+![](images/flipkart-translations.png)
+
+!SLIDE
+
+![](images/book-feng-english-v1.jpg)
+
+!SLIDE
+
+@@@ ruby
+Time.utc(1973)
+@@@
+
+!NOTES
+
+...close to the POSIX Epoch. :)
+
+!SLIDE
+
+@@@ ruby
+Time.utc(-168)
+@@@
+
+!SLIDE
+
+![](images/mawangdui-lao-tsu.jpg)
+
+!SLIDE
+
+![](images/book-nair.png)
 
 !SLIDE
 
@@ -94,3 +134,10 @@ kitty is at the beginning of his career, I am at the end of mine.
 ### THANKS!
 
 #### @kitallis / @deobald
+
+!SLIDE
+
+### BIBLIOGRAPHY
+
+- http://www.geekfarm.org/cgi-bin/tao.pl
+- http://en.wikipedia.org/wiki/Mawangdui_Silk_Texts
