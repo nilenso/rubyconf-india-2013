@@ -59,18 +59,29 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
+<!-- 0. intro -->
 #### → what is the tao te ching?
+#### → a warning.
+<!-- 10 minutes -->
+#### → on naming.
+<!-- 20 minutes -->
+#### → on returning.
+<!-- 35 minutes -->
+#### → on usefulness.
+#### → on effortlessness.
+<!-- 45 minutes -->
+#### → on humility, love, and leadership.
+<!-- 50 minutes -->
+
+!SLIDE
+
+#### <span class="highlight">→ what is the tao te ching?</span>
 #### → a warning.
 #### → on naming.
 #### → on returning.
 #### → on usefulness.
-#### → on humility.
 #### → on effortlessness.
-#### → on leadership and love.
-
-!SLIDE
-
-# what is the tao te ching?
+#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -160,7 +171,13 @@ Time.utc(-168)
 
 !SLIDE
 
-# a warning
+#### → what is the tao te ching?
+#### <span class="highlight">→ a warning.</span>
+#### → on naming.
+#### → on returning.
+#### → on usefulness.
+#### → on effortlessness.
+#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -231,7 +248,13 @@ TODO: wizards
 
 !SLIDE
 
-# on naming.
+#### → what is the tao te ching?
+#### → a warning.
+#### <span class="highlight">→ on naming.</span>
+#### → on returning.
+#### → on usefulness.
+#### → on effortlessness.
+#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -289,14 +312,162 @@ Perhaps it is the mother of ten thousand things.<br/>
 
 !SLIDE
 
+#### → what is the tao te ching?
+#### → a warning.
+#### → on naming.
+#### <span class="highlight">→ on returning.</span>
+#### → on usefulness.
+#### → on effortlessness.
+#### → on humility, love, and leadership.
+
+!SLIDE
+ 
+# poem #2
+ 
+<br/>
+...<br/>
+Therefore the sage goes about doing nothing, teaching no-talking.<br/>
+The ten thousand things rise and fall without cease,<br/>
+<span class="highlight">
+Creating, yet not owning.<br/>
+Working, yet not taking credit.<br/>
+Work is done, then forgotten.<br/>
+Therefore it lasts forever.<br/>
+</span>
+
+!SLIDE
+
+![](images/_why-quote-1.png)
+
+!SLIDE
+
+![](images/_why-quote-2.png)
+
+!SLIDE
+
+# poem #9
+
+<br/>
+Better to stop short than fill to the brim.<br/>
+Oversharpen the blade, and the edge will soon blunt.<br/>
+Amass a store of gold and jade, and no one can protect it.<br/>
+<span class="highlight">
+  Claim wealth and titles, and disaster will follow.<br/>
+  Retire when the work is done.<br/>
+  This is the way of heaven.<br/>
+</span>
+
+!SLIDE
+
+# poem #13
+
+<br/>
+Accept disgrace willingly.<br/>
+Accept misfortune as the human condition.<br/>
+What do you mean by "Accept disgrace willingly"?<br/>
+<span class="highlight">
+  Accept being unimportant.<br/>
+</span>
+Do not be concerned with loss or gain.<br/>
+This is called "accepting disgrace willingly."<br/>
+What do you mean by "Accept misfortune as the human condition"?<br/>
+<span class="highlight">
+  Misfortune comes from having a body.<br/>
+</span>
+Without a body, how could there be misfortune?<br/>
+Surrender yourself humbly; then you can be trusted to care for all things.<br/>
+Love the world as your own self; then you can truly care for all things.<br/>
+
+!NOTES
+
+"body": because we are born, we die. therefore we experience loss.
+
+!SLIDE
+
+# TODO: code example - deleting code
+
+!SLIDE
+
+# poem #2
+
+<br/>
+<span class="highlight">
+  Under heaven all can see beauty as beauty only because there is ugliness.<br/>
+  All can know good as good only because there is evil.<br/>
+</span>
+...<br/>
+<span class="highlight">
+  Therefore the sage goes about doing nothing, teaching no-talking.<br/>
+  The ten thousand things rise and fall without cease,<br/>
+</span>
+Creating, yet not owning.<br/>
+Working, yet not taking credit.<br/>
+Work is done, then forgotten.<br/>
+Therefore it lasts forever.<br/>
+
+!SLIDE
+
+# poem #16
+
+<br/>
+Empty yourself of everything.<br/>
+Let the mind become still.<br/>
+<span class="highlight">
+  The ten thousand things rise and fall while the Self watches their return.<br/>
+  They grow and flourish and then return to the source.<br/>
+  Returning to the source is stillness, which is the way of nature.<br/>
+  The way of nature is unchanging.<br/>
+</span>
+Knowing constancy is insight.<br/>
+Not knowing constancy leads to disaster.<br/>
+Knowing constancy, the mind is open.<br/>
+With an open mind, you will be openhearted.<br/>
+Being openhearted, you will act royally.<br/>
+Being royal, you will attain the divine.<br/>
+Being divine, you will be at one with the Tao.<br/>
+Being at one with the Tao is eternal.<br/>
+And though the body dies, the Tao will never pass away.<br/>
+
+
+!SLIDE
+
+# poem #23
+
+<br/>
+To talk little is natural.<br/>
+<span class="highlight">
+  High winds do not last all morning.<br/>
+  Heavy rain does not last all day.<br/>
+  Why is this? Heaven and Earth!<br/>
+  If heaven and Earth cannot make things eternal,<br/>
+  How is it possible for man?<br/>
+</span>
+He who follows the Tao<br/>
+Is at one with the Tao.<br/>
+He who is virtuous<br/>
+Experiences Virtue.<br/>
+He who loses the way<br/>
+Is lost.<br/>
+When you are at one with the Tao,<br/>
+The Tao welcomes you.<br/>
+When you are at one with Virtue,<br/>
+The Virtue is always there.<br/>
+When you are at one with loss,<br/>
+The loss is experienced willingly.<br/>
+He who does not trust enough<br/>
+Will not be trusted.<br/>
+
+!SLIDE
+
 # ( demo/voyeurb.rb )
 
 !SLIDE
 
 ### BIBLIOGRAPHY
-
+    
 - http://www.geekfarm.org/cgi-bin/tao.pl
 - http://en.wikipedia.org/wiki/Mawangdui_Silk_Texts
+- https://github.com/nilenso/voyeurb
 
 !SLIDE
 
