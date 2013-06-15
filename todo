@@ -115,7 +115,50 @@
   - words in memory
   - pointers, etc.
 
-= four: on humility =
+= four: on effortlessness =
+
+- #8: "in action, watch the timing."
+- #28: "a great tailor makes few cuts."
+- #30: "force is followed by loss of strength.
+        this is not the way of the tao.
+        that which goes against the tao
+        comes to an early end."
+
+Chuang Tzu's "Dextrous Butcher":
+
+- there is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat as if by magic. Wen-hui asked him how he could possibly achieve such skill.
+
+What I care about is the Way, which goes beyond skill.
+
+"A good cook changes his knife once a year - because he cuts. A mediocre cook changes his knife once a month - because he hacks. I've had this knife of mine for nineteen years and I've cut up thousands of oxen with it, and yet the blade is as good as though it had just come from the grindstone. There are spaces between the joints, and the blade of the knife has really no thickness. If you insert what has no thickness into such spaces, then there's plenty of room - more than enough for the blade to play about it. That's why after nineteen years the blade of my knife is still as good as when it first came from the grindstone.
+
+"However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I'm doing, work very slowly, and move the knife with the greatest subtlety, until - flop! the whole thing comes apart like a clod of earth crumbling to the ground. I stand there holding the knife and look all around me, completely satisfied and reluctant to move on, and then I wipe off the knife and put it away.
+
+- repl/rails console
+  - wheel wright (cannot teach my son) / butcher never blunts his knife / "a good tailor makes few cuts."
+  - idea => experiment => (TDD?) => program  : assists effortlessness
+  - 1) how to achieve effortlessness? practice.
+  - 2) "a journey of a thousand miles" small steps. #63 + #64
+  - alan kay tennis video
+
+- working late nights, weekends, "pushing yourself" vs. loving every minute of it
+  - the story of the developer who actually went crazy:
+    http://startingdotneprogramming.blogspot.in/2013/04/i-knew-programmer-that-went-completely.html
+
+- http://samsaffron.com/archive/2013/05/03/eliminating-my-trivial-inconveniences
+
+- code example: probono
+
+= X: on thrift (effortlessness? greed? desire?) =
+
+- #9: "oversharpen the blade, and the edge will soon blunt.
+       amass a store of gold and jade, and no one can protect it."
+
+- "thrift" as minimalism
+
+- TODO: premature optimization + "beautiful" but slow (android dev docs: don't create too many objs)
+
+= X: on humility =
 
 - do we want this at all?
 
@@ -131,37 +174,6 @@
 
 - TODO: code example of (not) designing for the future - grandiose plans that failed
         code example of cleverness = bad
-
-= five: on effortlessness =
-
-- #8: "in action, watch the timing."
-- #28: "a great tailor makes few cuts."
-- #30: "force is followed by loss of strength.
-        this is not the way of the tao.
-        that which goes against the tao
-        comes to an early end."
-
-- repl/rails console
-  - wheel wright (cannot teach my son) / butcher never blunts his knife / "a good tailor makes few cuts."
-  - idea => experiment => (TDD?) => program  : assists effortlessness
-  - 1) how to achieve effortlessness? practice.
-  - 2) "a journey of a thousand miles" small steps. #63 + #64
-  - alan kay tennis video
-
-- working late nights, weekends, "pushing yourself" vs. loving every minute of it
-  - the story of the developer who actually went crazy:
-    http://startingdotneprogramming.blogspot.in/2013/04/i-knew-programmer-that-went-completely.html
-
-- http://samsaffron.com/archive/2013/05/03/eliminating-my-trivial-inconveniences
-
-= X: on thrift (effortlessness? greed? desire?) =
-
-- #9: "oversharpen the blade, and the edge will soon blunt.
-       amass a store of gold and jade, and no one can protect it."
-
-- "thrift" as minimalism
-
-- TODO: premature optimization + "beautiful" but slow (android dev docs: don't create too many objs)
 
 = X: on love =
 

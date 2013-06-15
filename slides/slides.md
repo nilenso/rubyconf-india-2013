@@ -459,7 +459,125 @@ Will not be trusted.<br/>
 
 !SLIDE
 
+# TODO: stop-motion animations of "static" things (starfield, rotting fruit, something slower?)
+
+!SLIDE
+
 # ( demo/voyeurb.rb )
+
+# TODO: 1. gemify voyeurb 2. voyeurb a camping request
+
+!SLIDE
+
+#### → what is the tao te ching?
+#### → a warning.
+#### → on naming.
+#### → on returning.
+#### <span class="highlight">→ on usefulness.</span>
+#### → on effortlessness.
+#### → on humility, love, and leadership.
+
+!SLIDE
+
+# poem #11
+
+Thirty spokes share the wheel's hub;<br/>
+It is the center hole that makes it useful.<br/>
+<span class="highlight">
+  Shape clay into a vessel;<br/>
+  It is the space within that makes it useful.<br/>
+</span>
+Cut doors and windows for a room;<br/>
+It is the holes which make it useful.<br/>
+<span class="highlight">
+  Therefore benefit comes from what is there;<br/>
+  Usefulness from what is not there.<br/>
+</span>
+
+!NOTES
+
+runtime, pointers/references
+cpu caches, words in memory, electricity (it is a machine)
+implicit data structure? - oop, performance, design friction
+abstraction (FRP)
+
+!SLIDE
+
+# TODO: code example - "invisible" abstraction (FRP vs. callback/state changes?)
+
+!SLIDE
+
+#### → what is the tao te ching?
+#### → a warning.
+#### → on naming.
+#### → on returning.
+#### → on usefulness.
+#### <span class="highlight">→ on effortlessness.</span>
+#### → on humility, love, and leadership.
+
+!SLIDE
+
+# poem #8
+
+<br/>
+The highest good is like water.<br/>
+<span class="highlight">
+  Water give life to the ten thousand things and does not strive.<br/>
+</span>
+It flows in places men reject and so is like the Tao.<br/>
+In dwelling, be close to the land.<br/>
+In meditation, go deep in the heart.<br/>
+In dealing with others, be gentle and kind.<br/>
+In speech, be true.<br/>
+In ruling, be just.<br/>
+In business, be competent.<br/>
+<span class="highlight">
+  In action, watch the timing.<br/>
+</span>
+No fight: No blame.<br/>
+
+!SLIDE
+
+# poem #28
+
+<br/>
+...<br/>
+Ever true and resourceful,<br/>
+Return to the state of the uncarved block.<br/>
+When the block is carved, it becomes useful.<br/>
+When the sage uses it, he becomes the ruler.<br/>
+<span class="highlight">
+  Thus, "A great tailor makes few cuts."<br/>
+</span>
+
+!SLIDE
+
+# poem #30
+
+Whenever you advise a ruler in the way of Tao,<br/>
+<span class="highlight">
+  Counsel him not to use force to conquer the universe.<br/>
+  For this would only cause resistance.<br/>
+</span>
+Thorn bushes spring up wherever the army has passed.<br/>
+Lean years follow in the wake of a great war.<br/>
+Just do what needs to be done.<br/>
+Never take advantage of power.<br/>
+Achieve results,<br/>
+But never glory in them.<br/>
+Achieve results,<br/>
+But never boast.<br/>
+Achieve results,<br/>
+But never be proud.<br/>
+Achieve results,<br/>
+Because this is the natural way.<br/>
+<span class="highlight">
+  Achieve results,<br/>
+  But not through violence.<br/>
+  Force is followed by loss of strength.<br/>
+  This is not the way of Tao.<br/>
+  That which goes against the Tao comes to an early end.<br/>
+</span>
 
 !SLIDE
 
