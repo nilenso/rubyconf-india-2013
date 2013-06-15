@@ -59,14 +59,14 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-#### 00) what is the tao te ching? (00
-#### 0) a warning. (0
-#### 1) on naming. (1
-#### 2) on returning. (2
-#### 3) on usefulness. (3
-#### 4) on humility. (4
-#### 5) on effortlessness. (5
-#### 6) on leadership and love. (6
+#### → what is the tao te ching?
+#### → a warning.
+#### → on naming.
+#### → on returning.
+#### → on usefulness.
+#### → on humility.
+#### → on effortlessness.
+#### → on leadership and love.
 
 !SLIDE
 
@@ -75,6 +75,10 @@ kitty is at the beginning of his career, I am at the end of mine.
 !SLIDE
 
 ![](images/lao-tzu-riding-an-ox.jpg)
+
+!NOTES
+
+The myth of Lao Tzu's self-exile. (do not present as fact)
 
 !SLIDE
 
@@ -94,6 +98,17 @@ kitty is at the beginning of his career, I am at the end of mine.
 ## "the way"
 ## the perfect human
 
+!NOTES
+
+General Taoist philosophy; not just the Tao Te Ching.
+
+Taoist religion is wildly different from Taoist philosophy, and contains a lot of 
+magic potions, rituals, and other BS.
+
+The concept of "The Perfect Man" as written about in Taoist literature rarely speaks 
+to the process of becoming perfect, but rather the behaviours of those (the wise) 
+who have supposedly attained perfection.
+
 !SLIDE
 
 # taoist writing
@@ -104,6 +119,10 @@ kitty is at the beginning of his career, I am at the end of mine.
 ## paradox
 ## humour
 ## poetic / musical quality
+
+!SLIDE
+
+# TODO (maybe): one example of each writing utility
 
 !SLIDE
 
@@ -193,11 +212,11 @@ Tao in the world is like a river flowing home to the sea.<br/>
 
 !SLIDE
 
-# developers love to talk.
+# we (developers) love to talk.
 
 !SLIDE
 
-# developers love to make analogies and comparisons.
+# we (developers) love to make analogies and comparisons.
 
 !SLIDE
 
@@ -209,6 +228,64 @@ TODO: wizards
 !SLIDE
 
 # forgive us.
+
+!SLIDE
+
+# on naming.
+
+!SLIDE
+
+# poem #32
+
+<br/>
+The Tao is forever undefined.<br/>
+Small though it is in the unformed state, it cannot be grasped.<br/>
+If kings and lords could harness it,<br/>
+The ten thousand things would come together<br/>
+And gentle rain fall.<br/>
+Men would need no more instruction and all things would take their course.<br/>
+<span class="highlight">
+  Once the whole is divided, the parts need names.<br/>
+  There are already enough names.<br/>
+  One must know when to stop.<br/>
+  Knowing when to stop averts trouble.<br/>
+</span>
+Tao in the world is like a river flowing home to the sea.<br/>
+
+!NOTES
+
+- do we really need to name everything? (lambdas? FRP vs. state/callbacks)
+- identifying / naming abstractions
+
+<!-- Game.loop do |enemy| -->
+<!--     #enemy.pick_up_gun -->
+<!--     #enemy.shoot -->
+<!--     enemy.on_pick_up_gun { |e| e.shoot } -->
+<!--     enemy.on_shoot {|e| e.die } -->
+<!-- end -->
+
+!SLIDE
+
+# poem #25
+
+<br/>
+Something mysteriously formed,<br/>
+Born before heaven and Earth.<br/>
+In the silence and the void,<br/>
+Standing alone and unchanging,<br/>
+Ever present and in motion.<br/>
+Perhaps it is the mother of ten thousand things.<br/>
+<span class="highlight">
+  I do not know its name<br/>
+  Call it Tao.<br/>
+  For lack of a better word, I call it great.<br/>
+</span>
+...<br/>
+
+!NOTES
+
+- the difficulty of naming
+- concepts without names
 
 !SLIDE
 

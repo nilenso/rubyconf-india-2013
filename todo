@@ -41,6 +41,7 @@
 - #32: "there are already enough names. we need to know when to stop."
 - names, patterns, abstractions -- when is it too much?
 
+
 - meta: GoF "pattern" of Interpreter -- wat. (vs. Flyweight or Iterator, say)
   - TODO: is there something better than this?
   - why do we have patterns at all? (vs. libraries)
@@ -50,10 +51,14 @@
   - we like one-step table lookups.
   - airindia: if I need ALL my information to check in at a kiosk, I AM THE KEY
 
+- 2 hard problems: naming & cache invalidation
+
 - Whitehead: "tree" => "Sam The Tree" => "Sam" at a moment in time
 - Objects:
-  - a "class" => the "Tree" => an "object"
-  - an "object" => a "Tree" object => "Sam the tree" => moment (memento?)
+  - a "class" => the "Tree" => git commit f45eabb => an "object"
+  - an "object" => a "Tree" object (instance) 
+    => "Sam the tree" (sam = Tree.new) 
+    => moment (memento?)
 
 - TODO: code example: things over-named or under-namespaced (long names)
                       over-DRYing
