@@ -43,10 +43,6 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-# TODO: &lt;plug&gt;
-
-!SLIDE
-
 # what is nilenso?
 
 !NOTES
@@ -59,14 +55,9 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-# TODO: bootstrapping
+# TODO: consulting + bootstrapping
 
 !SLIDE
-
-# TODO: &lt;/plug&gt; 
-
-!SLIDE
-
 
 #### 00) what is the tao te ching? (00
 #### 0) a warning. (0
@@ -123,6 +114,8 @@ kitty is at the beginning of his career, I am at the end of mine.
 ![](images/book-feng-english-v1.jpg)
 
 !SLIDE
+
+# mawangdui manuscripts
 
 @@@ ruby
 Time.utc(1973)
@@ -223,15 +216,15 @@ TODO: wizards
 
 !SLIDE
 
+### BIBLIOGRAPHY
+
+- http://www.geekfarm.org/cgi-bin/tao.pl
+- http://en.wikipedia.org/wiki/Mawangdui_Silk_Texts
+
+!SLIDE
+
 ![](images/nilenso.png)
 
 ### THANKS!
 
 #### @kitallis / @deobald
-
-!SLIDE
-
-### BIBLIOGRAPHY
-
-- http://www.geekfarm.org/cgi-bin/tao.pl
-- http://en.wikipedia.org/wiki/Mawangdui_Silk_Texts
