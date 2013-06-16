@@ -579,12 +579,94 @@ Because this is the natural way.<br/>
   That which goes against the Tao comes to an early end.<br/>
 </span>
 
+!SLIDES
+
+# but how?
+
+!SLIDE
+
+# 1. stop striving.
+
+!NOTES
+
+no working late nights, no fighting, no struggling.
+
+!SLIDE
+
+# 2. remove difficulties.
+
+!SLIDE
+
+![](images/_why-fighting-null.png)
+
+!SLIDE
+
+# "Why Maybe is Better Than Null"
+
+![](images/carmack-hates-null.png)
+
+!SLIDE
+
+@@@ ruby
+module Enumerable
+  def only_by_block &block
+    bomb "can't take only of empty list" if empty?
+    values = select(&block)
+    bomb "can't take only of multiple matching values" if values.size > 1
+    bomb "can't take only of no matching values in" if values.empty?
+    bomb_nil_delayed(values.first) {"can't take only and get nil"}
+  end
+  private :only_by_block
+
+  def only &block
+    return only_by_block(&block) if block_given?
+    bomb "can't take only of multiple values" if size > 1
+    bomb "can't take only of empty list" if empty?
+    bomb_nil_delayed(first) {"can't take only and get nil"}
+  end
+  # ....
+end
+
+[1, 2, 3, 4].only #=> bomb("can't take only of multiple values")
+[].only #=> bomb("can't take only of empty list")
+["deobald", "kitallis", "kiran"].only do |name|
+  name.start_with? "k"
+end #=> bomb("can't take only of multiple matching values")
+@@@
+
+!NOTES
+
+explain `bomb`
+
+!SLIDE
+
+# 3. baby steps.
+
+!NOTES
+
+Chuang Tzu's "Dextrous Butcher":
+
+There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat as if by magic. Wen-hui asked him how he could possibly achieve such skill.
+
+"What I care about is the Way, which goes beyond skill.
+
+"A good cook changes his knife once a year - because he cuts. A mediocre cook changes his knife once a month - because he hacks. I've had this knife of mine for nineteen years and I've cut up thousands of oxen with it, and yet the blade is as good as though it had just come from the grindstone. There are spaces between the joints, and the blade of the knife has really no thickness. If you insert what has no thickness into such spaces, then there's plenty of room - more than enough for the blade to play about it.
+
+"However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I'm doing, work very slowly, and move the knife with the greatest subtlety, until - flop! the whole thing comes apart like a clod of earth crumbling to the ground. I stand there holding the knife and look all around me, completely satisfied and reluctant to move on, and then I wipe off the knife and put it away.
+
+!SLIDE
+
+# 2. practice.
+
+
+
 !SLIDE
 
 ### BIBLIOGRAPHY
     
 - http://www.geekfarm.org/cgi-bin/tao.pl
 - http://en.wikipedia.org/wiki/Mawangdui_Silk_Texts
+- http://nickknowlson.com/blog/2013/04/16/why-maybe-is-better-than-null/
 - https://github.com/nilenso/voyeurb
 
 !SLIDE
