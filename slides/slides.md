@@ -586,7 +586,7 @@ abstraction (FRP)
 
 !SLIDE
 
-# TODO: code example - "invisible" abstraction (FRP vs. callback/state changes?)
+# TODO: code example - "invisible" abstraction: FRP vs. callback - twitter stream!
 
 !SLIDE
 
