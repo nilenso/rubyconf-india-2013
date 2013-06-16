@@ -4,10 +4,9 @@
 
 # Tao of Ruby
 
-# .
+# &nbsp;
 
-## kitallis@nilenso.com
-## steven@nilenso.com
+## kitallis@nilenso.com<br/>steven@nilenso.com
 
 !SLIDE
 
@@ -85,11 +84,15 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
+# 81 poems.
+
+!SLIDE
+
 ![](images/lao-tzu-riding-an-ox.jpg)
 
 !NOTES
 
-The myth of Lao Tzu's self-exile. (do not present as fact)
+The myth of Lao Tzu's self-exile.
 
 !SLIDE
 
@@ -103,7 +106,7 @@ The myth of Lao Tzu's self-exile. (do not present as fact)
 
 # taoist philosophy (not religion)
 
-# .
+# &nbsp;
 
 ## nature
 ## "the way"
@@ -124,7 +127,7 @@ who have supposedly attained perfection.
 
 # taoist writing
 
-# .
+# &nbsp;
 
 ## double entendre
 ## paradox
@@ -146,6 +149,8 @@ who have supposedly attained perfection.
 !SLIDE
 
 # mawangdui manuscripts
+
+# &nbsp;
 
 @@@ ruby
 Time.utc(1973)
@@ -585,11 +590,14 @@ Because this is the natural way.<br/>
 
 !SLIDE
 
-# 1. stop striving.
+# 1. stop the violence. stop striving.
 
-!NOTES
+!SLIDE
 
-no working late nights, no fighting, no struggling.
+- late nights?
+- working weekends?
+- no time to fix your tools?
+- no time to automate your processes?
 
 !SLIDE
 
@@ -602,6 +610,8 @@ no working late nights, no fighting, no struggling.
 !SLIDE
 
 # "Why Maybe is Better Than Null"
+
+# &nbsp;
 
 ![](images/carmack-hates-null.png)
 
@@ -636,7 +646,7 @@ end #=> bomb("can't take only of multiple matching values")
 
 !NOTES
 
-explain `bomb`
+TODO: research/explain `bomb`
 
 !SLIDE
 
@@ -656,9 +666,41 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 
 !SLIDE
 
-# 2. practice.
+# poem #64
 
+<br/>
+...<br/>
+Deal with it before it happens.<br/>
+Set things in order before there is confusion.<br/>
+A tree as great as a man's embrace springs up from a small shoot;<br/>
+A terrace nine stories high begins with a pile of earth;<br/>
+<span class="highlight">
+  A journey of a thousand miles starts under one's feet.<br/>
+</span>
 
+!SLIDE
+
+# 4. meaningful practice.
+
+!SLIDE
+
+TODO: cut up the alan kay tennis video, add subtitles, highlight important words?
+
+- 1:41 - 1:58 ("bounce, hit.")
+- 2:38 - 2:48 (hitting)
+- blank: series of drills like this, watching then doing. / next, plays a game.
+- 7:20 - 7:24 ("everything became effortless.")
+- 8:00 - 8:26 ("something I wouldn't have believed possible.")
+- blank: editor/language is a user interface
+- 9:45 - 10:18 ("hitting vs. chasing")
+
+!NOTES
+
+"chasing the ball"
+
+- editing repetitive code instead of creating an abstraction for structural duplication
+- puts'ing values and re-running your app manually instead of TDD/repl
+- using a debugger to observe state changes instead of removing them from your program's flow
 
 !SLIDE
 
@@ -667,6 +709,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 - http://www.geekfarm.org/cgi-bin/tao.pl
 - http://en.wikipedia.org/wiki/Mawangdui_Silk_Texts
 - http://nickknowlson.com/blog/2013/04/16/why-maybe-is-better-than-null/
+- http://startingdotneprogramming.blogspot.in/2013/04/i-knew-programmer-that-went-completely.html
+- http://samsaffron.com/archive/2013/05/03/eliminating-my-trivial-inconveniences
 - https://github.com/nilenso/voyeurb
 
 !SLIDE
@@ -675,4 +719,5 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 
 ### THANKS!
 
-#### @kitallis / @deobald
+#### github.com/nilenso/tao-of-ruby-talk<br/>
+@kitallis / @deobald
