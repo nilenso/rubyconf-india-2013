@@ -50,11 +50,96 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 !SLIDE
 
-# TODO: pie chart
+# poem #66
+
+<br/>
+...<br/>
+<span class="highlight">
+Because she does not compete,<br/>
+She does not meet competition.<br/>
+</span>
 
 !SLIDE
 
-# TODO: consulting + bootstrapping
+# we are a coop.
+
+<table>
+<tr>
+<td>
+<canvas id="canvas" width="600" height="600"></canvas>
+</td>
+<td>
+<table id="owns">
+    <tr><th>Partner</th>  <th>Owns</th> </tr>
+    <tr><td>Akshay</td>   <td>9</td>  </tr>
+    <tr><td>Aninda</td>   <td>9</td>  </tr>
+    <tr><td>Asif</td>     <td>9</td>  </tr>
+    <tr><td>Jithu</td>    <td>9</td>  </tr>
+    <tr><td>Neha</td>     <td>9</td>  </tr>
+    <tr><td>Nivedita</td> <td>9</td>  </tr>
+    <tr><td>Prashant</td> <td>9</td>  </tr>
+    <tr><td>Srihari</td>  <td>9</td>  </tr>
+    <tr><td>Steven</td>   <td>9</td>  </tr>
+    <tr><td>Tejas</td>    <td>9</td>  </tr>
+    <tr><td>Timothy</td>  <td>9</td>  </tr>
+</table>
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="pie.js"></script>
+
+!SLIDE
+
+# poem #10
+
+<br/>
+...<br/>
+<span class="highlight">
+  Opening and closing the gates of heaven,<br/>
+  Can you play the role of woman?<br/>
+</span>
+...<br/>
+<span class="highlight">
+  Giving birth and nourishing,<br/>
+  Bearing yet not possessing,<br/>
+</span>
+...
+
+!SLIDE
+
+# we build bespoke software.
+
+![](images/bicycle-build.jpg)
+
+!SLIDE
+
+# poem #64
+
+<br/>
+...<br/>
+<span class="highlight">
+  A tree as great as a man's embrace springs up from a small shoot;<br/>
+  A terrace nine stories high begins with a pile of earth;<br/>
+</span>
+...<br/>
+        
+!SLIDE
+
+# we incubate products.
+
+![](images/baby-tiger.jpg)
+
+!SLIDE
+
+# does that mean you should listen to us?
+
+!SLIDE
+
+# . . .
+
+!SLIDE
+
+# let's start!
 
 !SLIDE
 
@@ -69,8 +154,6 @@ kitty is at the beginning of his career, I am at the end of mine.
 #### → on usefulness.
 #### → on effortlessness.
 <!-- 45 minutes -->
-#### → on humility, love, and leadership.
-<!-- 50 minutes -->
 
 !SLIDE
 
@@ -80,7 +163,6 @@ kitty is at the beginning of his career, I am at the end of mine.
 #### → on returning.
 #### → on usefulness.
 #### → on effortlessness.
-#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -182,7 +264,6 @@ Time.utc(-168)
 #### → on returning.
 #### → on usefulness.
 #### → on effortlessness.
-#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -259,7 +340,6 @@ TODO: wizards
 #### → on returning.
 #### → on usefulness.
 #### → on effortlessness.
-#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -323,7 +403,6 @@ Perhaps it is the mother of ten thousand things.<br/>
 #### <span class="highlight">→ on returning.</span>
 #### → on usefulness.
 #### → on effortlessness.
-#### → on humility, love, and leadership.
 
 !SLIDE
  
@@ -480,7 +559,6 @@ Will not be trusted.<br/>
 #### → on returning.
 #### <span class="highlight">→ on usefulness.</span>
 #### → on effortlessness.
-#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -518,7 +596,6 @@ abstraction (FRP)
 #### → on returning.
 #### → on usefulness.
 #### <span class="highlight">→ on effortlessness.</span>
-#### → on humility, love, and leadership.
 
 !SLIDE
 
@@ -719,5 +796,5 @@ TODO: cut up the alan kay tennis video, add subtitles, highlight important words
 
 ### THANKS!
 
-#### github.com/nilenso/tao-of-ruby-talk<br/>
+#### github.com/nilenso/tao-of-ruby-talk<br/> 
 @kitallis / @deobald
