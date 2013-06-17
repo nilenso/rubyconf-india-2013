@@ -578,7 +578,9 @@ Will not be trusted.<br/>
 
 !SLIDE
 
-# 5. TODO: time-lapse of "static" things (starfield, rotting fruit, something slower?)
+<video src="videos/fruit-10-seconds.mp4" controls width="960" height="720">
+  Your browser does not support the <code>video</code> element.
+</video>
 
 !SLIDE
 
