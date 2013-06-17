@@ -823,6 +823,7 @@ A terrace nine stories high begins with a pile of earth;<br/>
 - http://nickknowlson.com/blog/2013/04/16/why-maybe-is-better-than-null/
 - http://startingdotneprogramming.blogspot.in/2013/04/i-knew-programmer-that-went-completely.html
 - http://samsaffron.com/archive/2013/05/03/eliminating-my-trivial-inconveniences
+- https://github.com/steveklabnik/CLOSURE
 - https://github.com/nilenso/voyeurb
 
 !SLIDE
@@ -838,8 +839,8 @@ A terrace nine stories high begins with a pile of earth;<br/>
 
 # === Global TODOs:
 
-# 1. TODO: fix css colours for code blocks
-# 2. TODO: add [k] and [s] markers to each slide
+# 1. TODO: add [k] and [s] markers to each slide
+# 2. TODO: fix css colours for code blocks
 # 3. TODO: fix slide header alignment on macbook air
 # 4. TODO: add ellipses to long poems ^
 
