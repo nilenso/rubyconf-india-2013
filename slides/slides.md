@@ -796,8 +796,6 @@ A terrace nine stories high begins with a pile of earth;<br/>
 
 # 4. meaningful practice.
 
-!SLIDE
-
 !NOTES
 
 - 1:41 - 1:58 ("bounce, hit.")
