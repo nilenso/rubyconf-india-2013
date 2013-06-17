@@ -432,7 +432,7 @@ Perhaps it is the mother of ten thousand things.<br/>
 
 !SLIDE
 
-# TODO: code example: naming
+# 2. TODO: code examples: naming
 
 !SLIDE
 
@@ -578,13 +578,13 @@ Will not be trusted.<br/>
 
 !SLIDE
 
-# TODO: stop-motion animations of "static" things (starfield, rotting fruit, something slower?)
+# 5. TODO: time-lapse of "static" things (starfield, rotting fruit, something slower?)
 
 !SLIDE
 
 # ( demo/voyeurb.rb )
 
-# TODO: 1. gemify voyeurb 2. voyeurb a camping request
+# 3. TODO: a) gemify voyeurb b) voyeurb a camping request
 
 !SLIDE
 
@@ -621,7 +621,7 @@ abstraction (FRP)
 
 !SLIDE
 
-# TODO: code example - "invisible" abstraction: FRP vs. callback - twitter stream!
+# 1. TODO: code example - "invisible" abstraction: FRP vs. callback - twitter stream!
 
 !SLIDE
 
@@ -758,7 +758,7 @@ end #=> bomb("can't take only of multiple matching values")
 
 !NOTES
 
-TODO: research/explain `bomb`
+# 6. TODO: research/explain `bomb`
 
 !SLIDE
 
@@ -796,7 +796,7 @@ A terrace nine stories high begins with a pile of earth;<br/>
 
 !SLIDE
 
-TODO: cut up the alan kay tennis video, add subtitles, highlight important words?
+# 4. TODO: cut up the alan kay tennis video, add subtitles, highlight important words?
 
 - 1:41 - 1:58 ("bounce, hit.")
 - 2:38 - 2:48 (hitting)
@@ -833,3 +833,12 @@ TODO: cut up the alan kay tennis video, add subtitles, highlight important words
 
 #### github.com/nilenso/tao-of-ruby-talk<br/> 
 @kitallis / @deobald
+
+!NOTES
+
+# === Global TODOs:
+
+# 1. TODO: fix css colours for code blocks
+# 2. TODO: fix slide header alignment on macbook air
+# 3. TODO: add ellipses to long poems ^
+
