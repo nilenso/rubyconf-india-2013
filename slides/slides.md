@@ -468,10 +468,10 @@ QWAN<br/>
 Therefore the sage goes about doing nothing, teaching no-talking.<br/>
 The ten thousand things rise and fall without cease,<br/>
 <span class="highlight">
-Creating, yet not owning.<br/>
-Working, yet not taking credit.<br/>
-Work is done, then forgotten.<br/>
-Therefore it lasts forever.<br/>
+  Creating, yet not owning.<br/>
+  Working, yet not taking credit.<br/>
+  Work is done, then forgotten.<br/>
+  Therefore it lasts forever.<br/>
 </span>
 
 !SLIDE
@@ -562,7 +562,6 @@ Being royal, you will attain the divine.<br/>
 Being divine, you will be at one with the Tao.<br/>
 Being at one with the Tao is eternal.<br/>
 And though the body dies, the Tao will never pass away.<br/>
-
 
 !SLIDE
 
