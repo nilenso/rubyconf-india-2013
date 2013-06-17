@@ -839,6 +839,7 @@ A terrace nine stories high begins with a pile of earth;<br/>
 # === Global TODOs:
 
 # 1. TODO: fix css colours for code blocks
-# 2. TODO: fix slide header alignment on macbook air
-# 3. TODO: add ellipses to long poems ^
+# 2. TODO: add [k] and [s] markers to each slide
+# 3. TODO: fix slide header alignment on macbook air
+# 4. TODO: add ellipses to long poems ^
 
