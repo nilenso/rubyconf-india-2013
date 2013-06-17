@@ -107,7 +107,7 @@ She does not meet competition.<br/>
 
 !SLIDE
 
-# we build bespoke software.
+# we build custom software.
 
 ![](images/bicycle-build.jpg)
 
@@ -215,6 +215,8 @@ double entendre<br/>
 paradox<br/>
 tautology<br/>
 humour<br/>
+non sequiturs<br/>
+nonsense<br/>
 poetic / musical quality
 
 !SLIDE
@@ -402,10 +404,17 @@ Men would need no more instruction and all things would take their course.<br/>
 </span>
 Tao in the world is like a river flowing home to the sea.<br/>
 
-!NOTES
+!SLIDE
 
-- do we really need to name everything? (lambdas? FRP vs. state/callbacks)
-- identifying / naming abstractions
+# when does a lambda deserve a name?
+
+!SLIDE
+
+# when does a hash become a class?
+
+!SLIDE
+
+# "interpreter"?
 
 !SLIDE
 
@@ -425,10 +434,17 @@ Perhaps it is the mother of ten thousand things.<br/>
 </span>
 ...<br/>
 
-!NOTES
+!SLIDE
 
-- the difficulty of naming
-- concepts without names
+# 2 hard problems.
+
+!SLIDE
+
+# the nameless.
+
+<br/>
+QWAN<br/>
+"the first parameter"<br/>
 
 !SLIDE
 
@@ -614,12 +630,14 @@ It is the holes which make it useful.<br/>
   Usefulness from what is not there.<br/>
 </span>
 
-!NOTES
+!SLIDE
 
-runtime, pointers/references
-cpu caches, words in memory, electricity (it is a machine)
-implicit data structure? - oop, performance, design friction
-abstraction (FRP)
+# the invisible.
+
+<br/>
+runtime, pointers/references<br/>
+cpu caches, words in memory, electricity (it is a machine)<br/>
+undiscovered data structures in your design<br/>
 
 !SLIDE
 
@@ -636,12 +654,18 @@ abstraction (FRP)
 
 !SLIDE
 
+![](images/wuwei2.jpg)
+
+# non-action
+
+!SLIDE
+
 # poem #8
 
 <br/>
 The highest good is like water.<br/>
 <span class="highlight">
-  Water give life to the ten thousand things and does not strive.<br/>
+  Water gives life to the ten thousand things and does not strive.<br/>
 </span>
 It flows in places men reject and so is like the Tao.<br/>
 In dwelling, be close to the land.<br/>
@@ -698,7 +722,7 @@ Because this is the natural way.<br/>
   That which goes against the Tao comes to an early end.<br/>
 </span>
 
-!SLIDES
+!SLIDE
 
 # but how?
 
@@ -752,7 +776,9 @@ module Enumerable
 end
 
 [1, 2, 3, 4].only #=> bomb("can't take only of multiple values")
+
 [].only #=> bomb("can't take only of empty list")
+
 ["deobald", "kitallis", "kiran"].only do |name|
   name.start_with? "k"
 end #=> bomb("can't take only of multiple matching values")
@@ -765,18 +791,6 @@ end #=> bomb("can't take only of multiple matching values")
 !SLIDE
 
 # 3. baby steps.
-
-!NOTES
-
-Chuang Tzu's "Dextrous Butcher":
-
-There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat as if by magic. Wen-hui asked him how he could possibly achieve such skill.
-
-"What I care about is the Way, which goes beyond skill.
-
-"A good cook changes his knife once a year - because he cuts. A mediocre cook changes his knife once a month - because he hacks. I've had this knife of mine for nineteen years and I've cut up thousands of oxen with it, and yet the blade is as good as though it had just come from the grindstone. There are spaces between the joints, and the blade of the knife has really no thickness. If you insert what has no thickness into such spaces, then there's plenty of room - more than enough for the blade to play about it.
-
-"However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I'm doing, work very slowly, and move the knife with the greatest subtlety, until - flop! the whole thing comes apart like a clod of earth crumbling to the ground. I stand there holding the knife and look all around me, completely satisfied and reluctant to move on, and then I wipe off the knife and put it away.
 
 !SLIDE
 
@@ -791,6 +805,22 @@ A terrace nine stories high begins with a pile of earth;<br/>
 <span class="highlight">
   A journey of a thousand miles starts under one's feet.<br/>
 </span>
+
+!SLIDE
+
+![](images/cook-ting.jpg)
+
+!NOTES
+
+Chuang Tzu's "Dextrous Butcher":
+
+There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat as if by magic. Wen-hui asked him how he could possibly achieve such skill.
+
+"What I care about is the Way, which goes beyond skill.
+
+"A good cook changes his knife once a year - because he cuts. A mediocre cook changes his knife once a month - because he hacks. I've had this knife of mine for nineteen years and I've cut up thousands of oxen with it, and yet the blade is as good as though it had just come from the grindstone. There are spaces between the joints, and the blade of the knife has really no thickness. If you insert what has no thickness into such spaces, then there's plenty of room - more than enough for the blade to play about it.
+
+"However, whenever I come to a complicated place, I size up the difficulties, tell myself to watch out and be careful, keep my eyes on what I'm doing, work very slowly, and move the knife with the greatest subtlety, until - flop! the whole thing comes apart like a clod of earth crumbling to the ground. I stand there holding the knife and look all around me, completely satisfied and reluctant to move on, and then I wipe off the knife and put it away.
 
 !SLIDE
 
@@ -850,9 +880,15 @@ A terrace nine stories high begins with a pile of earth;<br/>
   Your browser does not support the <code>video</code> element.
 </video>
 
-!NOTES
+!SLIDE
 
-"chasing the ball"
+# "chasing the ball"
+
+ignoring structural duplication<br/>
+`puts` in large loops<br/>
+debugging state<br/>
+
+!NOTES
 
 - editing repetitive code instead of creating an abstraction for structural duplication
 - puts'ing values and re-running your app manually instead of TDD/repl
