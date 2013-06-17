@@ -798,15 +798,59 @@ A terrace nine stories high begins with a pile of earth;<br/>
 
 !SLIDE
 
-# 4. TODO: cut up the alan kay tennis video, add subtitles, highlight important words?
+!NOTES
 
 - 1:41 - 1:58 ("bounce, hit.")
 - 2:38 - 2:48 (hitting)
-- blank: series of drills like this, watching then doing. / next, plays a game.
+  - blank: series of drills like this, watching then doing. / next, plays a game.
 - 7:20 - 7:24 ("everything became effortless.")
 - 8:00 - 8:26 ("something I wouldn't have believed possible.")
-- blank: editor/language is a user interface
+  - blank: editor/language is a user interface
 - 9:45 - 10:18 ("hitting vs. chasing")
+
+!SLIDE
+
+# "bounce, hit."
+
+<video src="videos/kay-clip-1.mp4" controls width="640" height="480">
+  Your browser does not support the <code>video</code> element.
+</video>
+
+!SLIDE
+
+# learning to hit.
+
+<video src="videos/kay-clip-2.mp4" controls width="640" height="480">
+  Your browser does not support the <code>video</code> element.
+</video>
+
+!SLIDE
+
+# a short series of drills.
+
+!SLIDE
+
+# "everything became effortless."
+
+<video src="videos/kay-clip-3.mp4" controls width="640" height="480">
+  Your browser does not support the <code>video</code> element.
+</video>
+
+!SLIDE
+
+# "I wouldn't have believed possible."
+
+<video src="videos/kay-clip-4.mp4" controls width="640" height="480">
+  Your browser does not support the <code>video</code> element.
+</video>
+
+!SLIDE
+
+# "a lot of practice... in staying a beginner."
+
+<video src="videos/kay-clip-5.mp4" controls width="640" height="480">
+  Your browser does not support the <code>video</code> element.
+</video>
 
 !NOTES
 
