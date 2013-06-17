@@ -190,9 +190,9 @@ The myth of Lao Tzu's self-exile.
 
 # &nbsp;
 
-## nature
-## "the way"
-## the perfect human
+nature<br/>
+"the way"<br/>
+the perfect human
 
 !NOTES
 
@@ -211,14 +211,47 @@ who have supposedly attained perfection.
 
 # &nbsp;
 
-## double entendre
-## paradox
-## humour
-## poetic / musical quality
+double entendre<br/>
+paradox<br/>
+tautology<br/>
+humour<br/>
+poetic / musical quality
 
 !SLIDE
 
-# TODO (maybe): one example of each writing utility
+![](images/qi.png)
+
+# "essence"? or "semen"?
+
+!SLIDE
+
+# poem #22
+
+<br/>
+<span class="highlight">
+  Yield and overcome;<br/>
+</span>
+...
+
+!SLIDE
+
+# poem #23
+
+<br/>
+...<br/>
+<span class="highlight">
+  Those who lose their way<br/>
+  Are lost.<br/>
+</span>
+...
+
+!SLIDE
+
+# poetry?
+
+!SLIDE
+
+![](images/feng-ch-2-feather.jpg)
 
 !SLIDE
 
@@ -323,10 +356,19 @@ Tao in the world is like a river flowing home to the sea.<br/>
 
 !SLIDE
 
-TODO: architecture
-TODO: engineering
-TODO: gardening
-TODO: wizards
+![](images/architecture.jpg)
+
+!SLIDE
+
+![](images/engineering.jpg)
+
+!SLIDE
+
+![](images/gardener.jpg)
+
+!SLIDE
+
+![](images/wizard.jpg)
 
 !SLIDE
 
@@ -365,13 +407,6 @@ Tao in the world is like a river flowing home to the sea.<br/>
 - do we really need to name everything? (lambdas? FRP vs. state/callbacks)
 - identifying / naming abstractions
 
-<!-- Game.loop do |enemy| -->
-<!--     #enemy.pick_up_gun -->
-<!--     #enemy.shoot -->
-<!--     enemy.on_pick_up_gun { |e| e.shoot } -->
-<!--     enemy.on_shoot {|e| e.die } -->
-<!-- end -->
-
 !SLIDE
 
 # poem #25
@@ -394,6 +429,10 @@ Perhaps it is the mother of ten thousand things.<br/>
 
 - the difficulty of naming
 - concepts without names
+
+!SLIDE
+
+# TODO: code example: naming
 
 !SLIDE
 
@@ -465,10 +504,6 @@ Love the world as your own self; then you can truly care for all things.<br/>
 !NOTES
 
 "body": because we are born, we die. therefore we experience loss.
-
-!SLIDE
-
-# TODO: code example - deleting code
 
 !SLIDE
 
