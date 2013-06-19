@@ -1,6 +1,10 @@
 
 - slides
 - terminal
+  - increase font size
+  - cd ~/code/voyeurb
+  - cd ~/code/westwind
 - emacs
   - cd ~/code/tao-of-ruby-talk
-  - open demo/*.rb
+  - open any files we might want to show?
+
