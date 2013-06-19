@@ -652,12 +652,22 @@ Frappuccino::Stream.new(@input).
   on_value {|stanza| @output.call(stanza) }
 @@@
 
-!NOTES
+!SLIDE
 
-What is useful but "not there"?
-- state
-- state changes
-- conditionals
+# Therefore _benefit_ comes from what _is there_;
+
+<br/>
+local state<br/>
+we still have to write some code<br/>
+
+!SLIDE
+
+# _Usefulness_ from what is _not there_.
+
+<br/>
+shared state<br/>
+state changes<br/>
+conditionals
 
 !SLIDE
 
