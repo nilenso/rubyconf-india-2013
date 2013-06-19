@@ -671,6 +671,32 @@ conditionals
 
 !SLIDE
 
+# ( westwind demo )
+
+!SLIDE
+
+The world is too big for me<br/>
+“Courage is grace under pressure.” ― Ernest Hemingway<br/>
+This job is killing me<br/>
+Man it is warm today<br/>
+<br/>
+two glasses and il be buzzing you mean<br/>
+and Yeovil are my second team<br/>
+Isa is een lekkerding x fabian<br/>
+not working weekends is the dream<br/>
+<br/>
+Elvyn quad is a disgrace this morning<br/>
+Up early and studying<br/>
+the end of the year is so boring<br/>
+Got my hand burned while I was cooking<br/>
+<br/>
+Vamping and Blowing<br/>
+Woensdag eindelijk , week is doormidden<br/>
+I love proving people is wrong<br/>
+ontdooien die hap, is vast nog wol te drinken<br/>
+
+!SLIDE
+
 #### → what is the tao te ching?
 #### → a warning.
 #### → on naming.
