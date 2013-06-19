@@ -640,7 +640,24 @@ undiscovered data structures in your design<br/>
 
 !SLIDE
 
-# 1. TODO: code example - "invisible" abstraction: FRP vs. callback - twitter stream!
+![](images/westwind-diagram.jpg)
+
+@@@ ruby
+Frappuccino::Stream.new(@input). 
+  map {|text| Line.new(text) }.
+  select {|line| line.good? }.
+  muxdemux(rhymes) {|rhyme, line| rhyme.why_not(line) }.
+  partition(2).
+  map {|couplets| Stanza.new(couplets) }.
+  on_value {|stanza| @output.call(stanza) }
+@@@
+
+!NOTES
+
+What is useful but "not there"?
+- state
+- state changes
+- conditionals
 
 !SLIDE
 
