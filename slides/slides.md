@@ -52,6 +52,8 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 # what is nilenso?
 
+<div class="whom">k</div>
+
 !NOTES
 
 ...a company which employs some of these principles.
@@ -141,7 +143,7 @@ She does not meet competition.<br/>
 </span>
 ...<br/>
         
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -149,25 +151,25 @@ She does not meet competition.<br/>
 
 ![](images/baby-tiger.jpg)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
 # does that mean you should listen to us?
 
-<div class="whom">k</div>
+<div class="whom"></div>
 
 !SLIDE
 
 # . . .
 
-<div class="whom">k</div>
+<div class="whom"></div>
 
 !SLIDE
 
 # let's start!
 
-<div class="whom">k</div>
+<div class="whom"></div>
 
 !SLIDE
 
@@ -216,17 +218,19 @@ The myth of Lao Tzu's self-exile.
 
 # probably not.
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
 # probably an oral tradition.
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
-# taoist philosophy (not religion)
+# taoist philosophy
+
+# (not religion)
 
 # &nbsp;
 
@@ -234,7 +238,7 @@ nature<br/>
 "the way"<br/>
 the perfect human
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !NOTES
 
@@ -261,7 +265,7 @@ non sequiturs<br/>
 nonsense<br/>
 poetic quality
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -269,7 +273,7 @@ poetic quality
 
 # "essence"? or "semen"?
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -313,17 +317,19 @@ poetic quality
 
 ![](images/tao-teaching-poetic.png)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/flipkart-translations.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
 ![](images/book-feng-english-v2.jpg)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -335,7 +341,7 @@ poetic quality
 Time.utc(1973)
 @@@
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !NOTES
 
@@ -345,7 +351,7 @@ Time.utc(1973)
 
 ![](images/mawangdui-lao-tsu.jpg)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -353,13 +359,13 @@ Time.utc(1973)
 Time.utc(-168)
 @@@
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
 ![](images/book-nair.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -577,7 +583,7 @@ module ObjectExtension
 end
 @@@
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -594,7 +600,7 @@ module ModuleExtension
 end
 @@@
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -696,6 +702,14 @@ Therefore it lasts forever.<br/>
 
 !SLIDE
 
+<video src="videos/fruit-10-seconds.mp4" controls width="960" height="720">
+  Your browser does not support the <code>video</code> element.
+</video>
+
+<div class="whom">k</div>
+
+!SLIDE
+
 # poem #23
 
 <br/>
@@ -715,7 +729,7 @@ The loss is experienced willingly.<br/>
 He who does not trust enough<br/>
 Will not be trusted.<br/>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -731,15 +745,7 @@ Amass a store of gold and jade, and no one can protect it.<br/>
   This is the way of heaven.<br/>
 </span>
 
-<div class="whom">k</div>
-
-!SLIDE
-
-<video src="videos/fruit-10-seconds.mp4" controls width="960" height="720">
-  Your browser does not support the <code>video</code> element.
-</video>
-
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -789,7 +795,7 @@ It is the holes which make it useful.<br/>
 
 !SLIDE
 
-# the invisible.
+# the not-there.
 
 <br/>
 runtime, pointers/references<br/>
@@ -811,27 +817,6 @@ Frappuccino::Stream.new(@input).
   map {|couplets| Stanza.new(couplets) }.
   on_value {|stanza| @output.call(stanza) }
 @@@
-
-<div class="whom">k</div>
-
-!SLIDE
-
-# Therefore _benefit_ comes from what _is there_;
-
-<br/>
-local state<br/>
-we still have to write some code<br/>
-
-<div class="whom">k</div>
-
-!SLIDE
-
-# _Usefulness_ from what is _not there_.
-
-<br/>
-shared state<br/>
-state changes<br/>
-conditionals
 
 <div class="whom">k</div>
 
@@ -867,6 +852,27 @@ ontdooien die hap, is vast nog wol te drinken<br/>
 
 !SLIDE
 
+# Therefore _benefit_ comes from what _is there_;
+
+<br/>
+local state<br/>
+we still have to write some code<br/>
+
+<div class="whom">s</div>
+
+!SLIDE
+
+# _Usefulness_ from what is _not there_.
+
+<br/>
+shared state<br/>
+state changes<br/>
+conditionals
+
+<div class="whom">s</div>
+
+!SLIDE
+
 #### → what is the tao te ching?
 #### → a warning.
 #### → on naming.
@@ -874,7 +880,7 @@ ontdooien die hap, is vast nog wol te drinken<br/>
 #### → on usefulness.
 #### <span class="highlight">→ on effortlessness.</span>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -882,7 +888,7 @@ ontdooien die hap, is vast nog wol te drinken<br/>
 
 # non-action
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -905,7 +911,7 @@ In business, be competent.<br/>
 </span>
 No fight: No blame.<br/>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -921,7 +927,7 @@ When the sage uses it, he becomes the ruler.<br/>
   Thus, "A great tailor makes few cuts."<br/>
 </span>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -945,7 +951,7 @@ Never take advantage of power.<br/>
   That which goes against the Tao comes to an early end.<br/>
 </span>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -972,7 +978,7 @@ Never take advantage of power.<br/>
 
 # 2. remove difficulties.
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -980,7 +986,7 @@ Never take advantage of power.<br/>
 
 ![](images/_why-fighting-null.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -990,7 +996,7 @@ Never take advantage of power.<br/>
 
 ![](images/carmack-hates-null.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -1087,7 +1093,7 @@ A terrace nine stories high begins with a pile of earth;<br/>
 
 ![](images/cook-ting.jpg)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !NOTES
 
@@ -1206,7 +1212,7 @@ ignoring structural duplication<br/>
 `puts` in large loops<br/>
 debugging state<br/>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !NOTES
 

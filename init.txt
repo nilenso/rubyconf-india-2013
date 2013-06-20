@@ -1,5 +1,6 @@
 
 - slides
+  - make sure the coop pie chart colours don't look stupid
 
 - terminal
   - increase font size
