@@ -783,6 +783,8 @@ Will not be trusted.<br/>
 
 # TODO: 2. voyeurb: fix x/y animation
 
+# TODO: 3. voyeurb: fix race condition
+
 <div class="whom">k</div>
 
 !SLIDE

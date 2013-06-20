@@ -1,10 +1,11 @@
 
 - slides
+
 - terminal
   - increase font size
   - cd ~/code/voyeurb
+    - `./capture_camping.sh`
+    - `./watch`
   - cd ~/code/westwind
-- emacs
-  - cd ~/code/tao-of-ruby-talk
-  - open any files we might want to show?
+    - `ruby example.rb`
 
