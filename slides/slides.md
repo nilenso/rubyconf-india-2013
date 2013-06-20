@@ -781,6 +781,8 @@ Will not be trusted.<br/>
 
 # TODO: 1. voyeurb backup video
 
+# TODO: 2. voyeurb: fix x/y animation
+
 <div class="whom">k</div>
 
 !SLIDE
