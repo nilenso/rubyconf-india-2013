@@ -311,7 +311,7 @@ poetic quality
 
 !SLIDE
 
-# TODO: add structured english translation
+![](images/tao-teaching-poetic.png)
 
 !SLIDE
 
@@ -321,7 +321,7 @@ poetic quality
 
 !SLIDE
 
-![](images/book-feng-english-v1.jpg)
+![](images/book-feng-english-v2.jpg)
 
 <div class="whom">k</div>
 
@@ -594,6 +594,8 @@ module ModuleExtension
 end
 @@@
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # TODO: a pompous name?
@@ -630,33 +632,17 @@ The ten thousand things rise and fall without cease,<br/>
 
 !SLIDE
 
+# TODO: resize why quote
+
 ![](images/_why-quote-1.png)
 
 <div class="whom">k</div>
 
 !SLIDE
 
+# TODO: resize why quote#2
+
 ![](images/_why-quote-2.png)
-
-<div class="whom">k</div>
-
-!SLIDE
-
-# TODO: pick 2 of these poems
-
-!SLIDE
-
-# poem #9
-
-<br/>
-Better to stop short than fill to the brim.<br/>
-Oversharpen the blade, and the edge will soon blunt.<br/>
-Amass a store of gold and jade, and no one can protect it.<br/>
-<span class="highlight">
-  Claim wealth and titles, and disaster will follow.<br/>
-  Retire when the work is done.<br/>
-  This is the way of heaven.<br/>
-</span>
 
 <div class="whom">k</div>
 
@@ -710,31 +696,6 @@ Therefore it lasts forever.<br/>
 
 !SLIDE
 
-# poem #16
-
-<br/>
-Empty yourself of everything.<br/>
-Let the mind become still.<br/>
-<span class="highlight">
-  The ten thousand things rise and fall while the Self watches their return.<br/>
-  They grow and flourish and then return to the source.<br/>
-  Returning to the source is stillness, which is the way of nature.<br/>
-  The way of nature is unchanging.<br/>
-</span>
-Knowing constancy is insight.<br/>
-Not knowing constancy leads to disaster.<br/>
-Knowing constancy, the mind is open.<br/>
-With an open mind, you will be openhearted.<br/>
-Being openhearted, you will act royally.<br/>
-Being royal, you will attain the divine.<br/>
-Being divine, you will be at one with the Tao.<br/>
-Being at one with the Tao is eternal.<br/>
-And though the body dies, the Tao will never pass away.<br/>
-
-<div class="whom">k</div>
-
-!SLIDE
-
 # poem #23
 
 <br/>
@@ -742,24 +703,33 @@ To talk little is natural.<br/>
 <span class="highlight">
   High winds do not last all morning.<br/>
   Heavy rain does not last all day.<br/>
+</span>
   Why is this? Heaven and Earth!<br/>
+<span class="highlight">
   If heaven and Earth cannot make things eternal,<br/>
   How is it possible for man?<br/>
 </span>
-He who follows the Tao<br/>
-Is at one with the Tao.<br/>
-He who is virtuous<br/>
-Experiences Virtue.<br/>
-He who loses the way<br/>
-Is lost.<br/>
-When you are at one with the Tao,<br/>
-The Tao welcomes you.<br/>
-When you are at one with Virtue,<br/>
-The Virtue is always there.<br/>
+...<br/>
 When you are at one with loss,<br/>
 The loss is experienced willingly.<br/>
 He who does not trust enough<br/>
 Will not be trusted.<br/>
+
+<div class="whom">k</div>
+
+!SLIDE
+
+# poem #9
+
+<br/>
+Better to stop short than fill to the brim.<br/>
+Oversharpen the blade, and the edge will soon blunt.<br/>
+Amass a store of gold and jade, and no one can protect it.<br/>
+<span class="highlight">
+  Claim wealth and titles, and disaster will follow.<br/>
+  Retire when the work is done.<br/>
+  This is the way of heaven.<br/>
+</span>
 
 <div class="whom">k</div>
 
@@ -966,14 +936,7 @@ Thorn bushes spring up wherever the army has passed.<br/>
 Lean years follow in the wake of a great war.<br/>
 Just do what needs to be done.<br/>
 Never take advantage of power.<br/>
-Achieve results,<br/>
-But never glory in them.<br/>
-Achieve results,<br/>
-But never boast.<br/>
-Achieve results,<br/>
-But never be proud.<br/>
-Achieve results,<br/>
-Because this is the natural way.<br/>
+...<br/>
 <span class="highlight">
   Achieve results,<br/>
   But not through violence.<br/>
@@ -1012,6 +975,8 @@ Because this is the natural way.<br/>
 <div class="whom">k</div>
 
 !SLIDE
+
+# TODO: resize why null
 
 ![](images/_why-fighting-null.png)
 
@@ -1123,10 +1088,6 @@ A terrace nine stories high begins with a pile of earth;<br/>
 ![](images/cook-ting.jpg)
 
 <div class="whom">k</div>
-
-!SLIDE
-
-# TODO: print cook ting story
 
 !NOTES
 
