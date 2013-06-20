@@ -319,15 +319,11 @@ The gate to all mystery.<br/>
 
 !SLIDE
 
-# only "tao" is permanent
-
-!NOTES
-
-the only permanent thing (or perhaps non-thing) is "tao"
+# whatever we tell you today is inherently flawed and impermanent
 
 !SLIDE
 
-# whatever we tell you today is inherently flawed and impermanent
+# only "tao" is permanent
 
 !SLIDE
 
@@ -406,11 +402,11 @@ Tao in the world is like a river flowing home to the sea.<br/>
 
 !SLIDE
 
-# when does a lambda deserve a name?
+# when is a lambda a method?
 
 !SLIDE
 
-# when does a hash become a class?
+# when is a hash a class?
 
 !SLIDE
 
@@ -448,7 +444,40 @@ QWAN<br/>
 
 !SLIDE
 
-# 1. TODO: code examples: naming
+# a difficult name.
+
+# &nbsp;
+
+@@@ ruby
+module ObjectExtension
+  def dbg_msg label, x, location
+    inspected = x.respond_to?(:pretty_inspect) ? x.pretty_inspect : x.inspect
+    "#{label} from #{location}:\n #{inspected}"
+  end
+  
+  def dbg x, label = 'value', context = caller[0]
+    puts dbg_msg(label, x, context)
+    x
+  end
+
+  # ...
+end
+@@@
+
+!SLIDE
+
+# a silly name.
+
+# &nbsp;
+
+@@@ ruby
+module ModuleExtension
+  def ninja_redefine_const(name, value)
+    __send__(:remove_const, name) if const_defined?(name)
+    const_set(name, value)
+  end
+end
+@@@
 
 !SLIDE
 
