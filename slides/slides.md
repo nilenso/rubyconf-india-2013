@@ -550,7 +550,7 @@ Perhaps it is the mother of ten thousand things.<br/>
 QWAN<br/>
 "the first parameter"<br/>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -561,7 +561,10 @@ QWAN<br/>
 @@@ ruby
 module ObjectExtension
   def dbg_msg label, x, location
-    inspected = x.respond_to?(:pretty_inspect) ? x.pretty_inspect : x.inspect
+    inspected = if x.respond_to?(:pretty_inspect)
+                  x.pretty_inspect
+                else
+                  x.inspect
     "#{label} from #{location}:\n #{inspected}"
   end
   
@@ -590,6 +593,10 @@ module ModuleExtension
   end
 end
 @@@
+
+!SLIDE
+
+# TODO: a pompous name?
 
 <div class="whom">k</div>
 
@@ -632,6 +639,10 @@ The ten thousand things rise and fall without cease,<br/>
 ![](images/_why-quote-2.png)
 
 <div class="whom">k</div>
+
+!SLIDE
+
+# TODO: pick 2 of these poems
 
 !SLIDE
 
@@ -1043,7 +1054,7 @@ end
 end #=> bomb("can't take only of multiple matching values")
 @@@
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -1061,7 +1072,10 @@ module ObjectExtension
       msg = "#{msg}. #{e.message}"
     end
     ex = Exception.new long_msg
-    ex.instance_eval { @short_message = msg; def user_message; @short_message; end }
+    ex.instance_eval do
+      @short_message = msg
+      def user_message; @short_message; end
+    end
     raise ex
   end
 
@@ -1069,7 +1083,7 @@ module ObjectExtension
 end
 @@@
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !NOTES
 
@@ -1106,6 +1120,10 @@ A terrace nine stories high begins with a pile of earth;<br/>
 
 <div class="whom">k</div>
 
+!SLIDE
+
+# TODO: print cook ting story
+
 !NOTES
 
 Chuang Tzu's "Dextrous Butcher":
@@ -1121,6 +1139,29 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 !SLIDE
 
 # 4. meaningful practice.
+
+<div class="whom">k</div>
+
+!SLIDE
+
+# poem #8
+
+<br/>
+The highest good is like water.<br/>
+<span class="highlight">
+  Water gives life to the ten thousand things and does not strive.<br/>
+</span>
+It flows in places men reject and so is like the Tao.<br/>
+In dwelling, be close to the land.<br/>
+In meditation, go deep in the heart.<br/>
+In dealing with others, be gentle and kind.<br/>
+In speech, be true.<br/>
+In ruling, be just.<br/>
+In business, be competent.<br/>
+<span class="highlight">
+  In action, watch the timing.<br/>
+</span>
+No fight: No blame.<br/>
 
 <div class="whom">k</div>
 
@@ -1194,6 +1235,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 
 # "chasing the ball"
 
+# &nbsp;
+
 ignoring structural duplication<br/>
 `puts` in large loops<br/>
 debugging state<br/>
@@ -1217,6 +1260,7 @@ debugging state<br/>
 - http://samsaffron.com/archive/2013/05/03/eliminating-my-trivial-inconveniences
 - https://github.com/steveklabnik/CLOSURE
 - https://github.com/nilenso/voyeurb
+- https://github.com/nilenso/westwind
 
 <div class="whom">k</div>
 
