@@ -448,7 +448,7 @@ QWAN<br/>
 
 !SLIDE
 
-# 2. TODO: code examples: naming
+# 1. TODO: code examples: naming
 
 !SLIDE
 
@@ -599,9 +599,11 @@ Will not be trusted.<br/>
 
 !SLIDE
 
-# ( demo/voyeurb.rb )
+# ( demo voyeurb )
 
-# 3. TODO: a) gemify voyeurb b) voyeurb a camping request
+!SLIDE
+
+# TODO: 2. voyeurb backup video
 
 !SLIDE
 
@@ -836,9 +838,36 @@ end
 end #=> bomb("can't take only of multiple matching values")
 @@@
 
+!SLIDE
+
+@@@ ruby
+module ObjectExtension
+  def message_for_exception(e, msg)
+    backtrace = e.backtrace.join("\n") + "\n" if e.backtrace
+    "#{msg}\nCAUSE: #{ e.class } : #{ e.message }\n #{backtrace}\""
+  end
+  
+  def bomb msg, e = nil
+    long_msg = msg
+    unless e.nil?
+      long_msg = message_for_exception(e, msg)
+      msg = "#{msg}. #{e.message}"
+    end
+    ex = Exception.new long_msg
+    ex.instance_eval { @short_message = msg; def user_message; @short_message; end }
+    raise ex
+  end
+
+  #...
+end
+@@@
+
 !NOTES
 
-# 6. TODO: research/explain `bomb`
+- bomb maintains a clearer re-raise stacktrace (for jeff)
+- bomb provides a user-level message at the callsite
+- ravings of a perl hacker turned java hacker turned C# hacker turned ruby hacker?
+  - yes.
 
 !SLIDE
 
