@@ -176,9 +176,9 @@ She does not meet competition.<br/>
 #### → a warning.
 <!-- 10 minutes -->
 #### → on naming.
-<!-- 20 minutes -->
+<!-- 15 minutes -->
 #### → on returning.
-<!-- 35 minutes -->
+<!-- 30 minutes -->
 #### → on usefulness.
 #### → on effortlessness.
 <!-- 45 minutes -->
@@ -259,7 +259,7 @@ tautology<br/>
 humour<br/>
 non sequiturs<br/>
 nonsense<br/>
-poetic / musical quality
+poetic quality
 
 <div class="whom">k</div>
 
@@ -308,6 +308,10 @@ poetic / musical quality
 ![](images/feng-ch-2-feather.jpg)
 
 <div class="whom">k</div>
+
+!SLIDE
+
+# TODO: add structured english translation
 
 !SLIDE
 
