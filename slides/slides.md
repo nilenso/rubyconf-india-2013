@@ -12,9 +12,7 @@
 
 # who are we?
 
-!NOTES
-
-who are we... and why should you listen to us?
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -22,23 +20,33 @@ who are we... and why should you listen to us?
 
 # @deobald
 
+<div class="whom">k</div>
+
 !NOTES
 
 much of the tao te ching is about time.
 kitty is at the beginning of his career, I am at the end of mine.
 (I am going to die in a horrifying chemical explosion next year.)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/c42-dark.png)
+
+<div class="whom">k</div>
 
 !SLIDE
 
 ![](images/rubymonk-logo-dark.png)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/nilenso.png)
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -47,6 +55,8 @@ kitty is at the beginning of his career, I am at the end of mine.
 !NOTES
 
 ...a company which employs some of these principles.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -58,6 +68,8 @@ kitty is at the beginning of his career, I am at the end of mine.
 Because she does not compete,<br/>
 She does not meet competition.<br/>
 </span>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -88,6 +100,8 @@ She does not meet competition.<br/>
 </table>
 <script type="text/javascript" src="pie.js"></script>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # poem #10
@@ -105,11 +119,15 @@ She does not meet competition.<br/>
 </span>
 ...
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # we build custom software.
 
 ![](images/bicycle-build.jpg)
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -123,23 +141,33 @@ She does not meet competition.<br/>
 </span>
 ...<br/>
         
+<div class="whom">k</div>
+
 !SLIDE
 
 # we incubate products.
 
 ![](images/baby-tiger.jpg)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # does that mean you should listen to us?
+
+<div class="whom">k</div>
 
 !SLIDE
 
 # . . .
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # let's start!
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -155,6 +183,8 @@ She does not meet competition.<br/>
 #### → on effortlessness.
 <!-- 45 minutes -->
 
+<div class="whom">k</div>
+
 !SLIDE
 
 #### <span class="highlight">→ what is the tao te ching?</span>
@@ -164,13 +194,19 @@ She does not meet competition.<br/>
 #### → on usefulness.
 #### → on effortlessness.
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # 81 poems.
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/lao-tzu-riding-an-ox.jpg)
+
+<div class="whom">k</div>
 
 !NOTES
 
@@ -180,9 +216,13 @@ The myth of Lao Tzu's self-exile.
 
 # probably not.
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # probably an oral tradition.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -193,6 +233,8 @@ The myth of Lao Tzu's self-exile.
 nature<br/>
 "the way"<br/>
 the perfect human
+
+<div class="whom">k</div>
 
 !NOTES
 
@@ -219,11 +261,15 @@ non sequiturs<br/>
 nonsense<br/>
 poetic / musical quality
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/qi.png)
 
 # "essence"? or "semen"?
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -234,6 +280,8 @@ poetic / musical quality
   Yield and overcome;<br/>
 </span>
 ...
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -247,21 +295,31 @@ poetic / musical quality
 </span>
 ...
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # poetry?
+
+<div class="whom">k</div>
 
 !SLIDE
 
 ![](images/feng-ch-2-feather.jpg)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/flipkart-translations.png)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/book-feng-english-v1.jpg)
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -273,6 +331,8 @@ poetic / musical quality
 Time.utc(1973)
 @@@
 
+<div class="whom">k</div>
+
 !NOTES
 
 ...close to the POSIX Epoch. :)
@@ -281,15 +341,21 @@ Time.utc(1973)
 
 ![](images/mawangdui-lao-tsu.jpg)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 @@@ ruby
 Time.utc(-168)
 @@@
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/book-nair.png)
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -299,6 +365,8 @@ Time.utc(-168)
 #### → on returning.
 #### → on usefulness.
 #### → on effortlessness.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -317,13 +385,19 @@ These two spring from the same source but differ in name; this appears as darkne
 Darkness within darkness.<br/>
 The gate to all mystery.<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # whatever we tell you today is inherently flawed and impermanent
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # only "tao" is permanent
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -344,33 +418,49 @@ Men would need no more instruction and all things would take their course.<br/>
 </span>
 Tao in the world is like a river flowing home to the sea.<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # we (developers) love to talk.
+
+<div class="whom">k</div>
 
 !SLIDE
 
 # we (developers) love to make analogies and comparisons.
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/architecture.jpg)
+
+<div class="whom">k</div>
 
 !SLIDE
 
 ![](images/engineering.jpg)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/gardener.jpg)
+
+<div class="whom">k</div>
 
 !SLIDE
 
 ![](images/wizard.jpg)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # forgive us.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -381,6 +471,8 @@ Tao in the world is like a river flowing home to the sea.<br/>
 #### → on usefulness.
 #### → on effortlessness.
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # poem #32
@@ -400,17 +492,25 @@ Men would need no more instruction and all things would take their course.<br/>
 </span>
 Tao in the world is like a river flowing home to the sea.<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # when is a lambda a method?
+
+<div class="whom">k</div>
 
 !SLIDE
 
 # when is a hash a class?
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # "interpreter"?
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -430,9 +530,13 @@ Perhaps it is the mother of ten thousand things.<br/>
 </span>
 ...<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # 2 hard problems.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -441,6 +545,8 @@ Perhaps it is the mother of ten thousand things.<br/>
 <br/>
 QWAN<br/>
 "the first parameter"<br/>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -464,6 +570,8 @@ module ObjectExtension
 end
 @@@
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # a silly name.
@@ -479,6 +587,8 @@ module ModuleExtension
 end
 @@@
 
+<div class="whom">k</div>
+
 !SLIDE
 
 #### → what is the tao te ching?
@@ -487,6 +597,8 @@ end
 #### <span class="highlight">→ on returning.</span>
 #### → on usefulness.
 #### → on effortlessness.
+
+<div class="whom">k</div>
 
 !SLIDE
  
@@ -503,13 +615,19 @@ The ten thousand things rise and fall without cease,<br/>
   Therefore it lasts forever.<br/>
 </span>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/_why-quote-1.png)
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/_why-quote-2.png)
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -524,6 +642,8 @@ Amass a store of gold and jade, and no one can protect it.<br/>
   Retire when the work is done.<br/>
   This is the way of heaven.<br/>
 </span>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -545,6 +665,8 @@ What do you mean by "Accept misfortune as the human condition"?<br/>
 Without a body, how could there be misfortune?<br/>
 Surrender yourself humbly; then you can be trusted to care for all things.<br/>
 Love the world as your own self; then you can truly care for all things.<br/>
+
+<div class="whom">k</div>
 
 !NOTES
 
@@ -569,6 +691,8 @@ Working, yet not taking credit.<br/>
 Work is done, then forgotten.<br/>
 Therefore it lasts forever.<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # poem #16
@@ -591,6 +715,8 @@ Being royal, you will attain the divine.<br/>
 Being divine, you will be at one with the Tao.<br/>
 Being at one with the Tao is eternal.<br/>
 And though the body dies, the Tao will never pass away.<br/>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -620,19 +746,27 @@ The loss is experienced willingly.<br/>
 He who does not trust enough<br/>
 Will not be trusted.<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 <video src="videos/fruit-10-seconds.mp4" controls width="960" height="720">
   Your browser does not support the <code>video</code> element.
 </video>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # ( demo voyeurb )
 
+<div class="whom">k</div>
+
 !SLIDE
 
-# TODO: 2. voyeurb backup video
+# TODO: 1. voyeurb backup video
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -642,6 +776,8 @@ Will not be trusted.<br/>
 #### → on returning.
 #### <span class="highlight">→ on usefulness.</span>
 #### → on effortlessness.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -660,6 +796,8 @@ It is the holes which make it useful.<br/>
   Usefulness from what is not there.<br/>
 </span>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # the invisible.
@@ -668,6 +806,8 @@ It is the holes which make it useful.<br/>
 runtime, pointers/references<br/>
 cpu caches, words in memory, electricity (it is a machine)<br/>
 undiscovered data structures in your design<br/>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -683,6 +823,8 @@ Frappuccino::Stream.new(@input).
   on_value {|stanza| @output.call(stanza) }
 @@@
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # Therefore _benefit_ comes from what _is there_;
@@ -690,6 +832,8 @@ Frappuccino::Stream.new(@input).
 <br/>
 local state<br/>
 we still have to write some code<br/>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -700,9 +844,13 @@ shared state<br/>
 state changes<br/>
 conditionals
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # ( westwind demo )
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -726,6 +874,8 @@ Woensdag eindelijk , week is doormidden<br/>
 I love proving people is wrong<br/>
 ontdooien die hap, is vast nog wol te drinken<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 #### → what is the tao te ching?
@@ -735,11 +885,15 @@ ontdooien die hap, is vast nog wol te drinken<br/>
 #### → on usefulness.
 #### <span class="highlight">→ on effortlessness.</span>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/wuwei2.jpg)
 
 # non-action
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -762,6 +916,8 @@ In business, be competent.<br/>
 </span>
 No fight: No blame.<br/>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # poem #28
@@ -775,6 +931,8 @@ When the sage uses it, he becomes the ruler.<br/>
 <span class="highlight">
   Thus, "A great tailor makes few cuts."<br/>
 </span>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -805,13 +963,19 @@ Because this is the natural way.<br/>
   That which goes against the Tao comes to an early end.<br/>
 </span>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # but how?
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # 1. stop the violence. stop striving.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -820,13 +984,19 @@ Because this is the natural way.<br/>
 - no time to fix your tools?
 - no time to automate your processes?
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # 2. remove difficulties.
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/_why-fighting-null.png)
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -835,6 +1005,8 @@ Because this is the natural way.<br/>
 # &nbsp;
 
 ![](images/carmack-hates-null.png)
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -867,6 +1039,8 @@ end
 end #=> bomb("can't take only of multiple matching values")
 @@@
 
+<div class="whom">k</div>
+
 !SLIDE
 
 @@@ ruby
@@ -891,6 +1065,8 @@ module ObjectExtension
 end
 @@@
 
+<div class="whom">k</div>
+
 !NOTES
 
 - bomb maintains a clearer re-raise stacktrace (for jeff)
@@ -901,6 +1077,8 @@ end
 !SLIDE
 
 # 3. baby steps.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -916,9 +1094,13 @@ A terrace nine stories high begins with a pile of earth;<br/>
   A journey of a thousand miles starts under one's feet.<br/>
 </span>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/cook-ting.jpg)
+
+<div class="whom">k</div>
 
 !NOTES
 
@@ -935,6 +1117,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 !SLIDE
 
 # 4. meaningful practice.
+
+<div class="whom">k</div>
 
 !NOTES
 
@@ -954,6 +1138,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
   Your browser does not support the <code>video</code> element.
 </video>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # learning to hit.
@@ -962,9 +1148,13 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
   Your browser does not support the <code>video</code> element.
 </video>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # a short series of drills.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -974,6 +1164,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
   Your browser does not support the <code>video</code> element.
 </video>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # "I wouldn't have believed possible."
@@ -981,6 +1173,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 <video src="videos/kay-clip-4.mp4" controls width="640" height="480">
   Your browser does not support the <code>video</code> element.
 </video>
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -990,6 +1184,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
   Your browser does not support the <code>video</code> element.
 </video>
 
+<div class="whom">k</div>
+
 !SLIDE
 
 # "chasing the ball"
@@ -997,6 +1193,8 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 ignoring structural duplication<br/>
 `puts` in large loops<br/>
 debugging state<br/>
+
+<div class="whom">k</div>
 
 !NOTES
 
@@ -1016,6 +1214,8 @@ debugging state<br/>
 - https://github.com/steveklabnik/CLOSURE
 - https://github.com/nilenso/voyeurb
 
+<div class="whom">k</div>
+
 !SLIDE
 
 ![](images/nilenso.png)
@@ -1029,7 +1229,6 @@ debugging state<br/>
 
 # === Global TODOs:
 
-# 1. TODO: add [k] and [s] markers to each slide
 # 2. TODO: fix css colours for code blocks
 # 3. TODO: fix slide header alignment on macbook air
 # 4. TODO: add ellipses to long poems ^

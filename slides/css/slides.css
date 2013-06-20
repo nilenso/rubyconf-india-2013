@@ -18,9 +18,17 @@
   font-style: normal;
 }
 
+.deck-container div .whom {
+  font-size: 100px;
+  color: #555;
+  position: fixed;
+  right: 0;
+  bottom: 16px;
+}
+
 .dark {
-    background-color: black;
-    border: 5px;
+  background-color: black;
+  border: 5px;
 }
 
 .highlight {
