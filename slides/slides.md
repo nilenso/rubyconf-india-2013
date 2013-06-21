@@ -1095,9 +1095,7 @@ There is a story of Cook Ting, cook to Lord Wen-hui. Ting seemed to carve meat a
 
 <br/>
 The highest good is like water.<br/>
-<span class="highlight">
-  Water gives life to the ten thousand things and does not strive.<br/>
-</span>
+Water gives life to the ten thousand things and does not strive.<br/>
 It flows in places men reject and so is like the Tao.<br/>
 In dwelling, be close to the land.<br/>
 In meditation, go deep in the heart.<br/>
