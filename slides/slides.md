@@ -12,7 +12,7 @@
 
 # who are we?
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -20,7 +20,7 @@
 
 # @deobald
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !NOTES
 
@@ -28,25 +28,23 @@ much of the tao te ching is about time.
 kitty is at the beginning of his career, I am at the end of mine.
 (I am going to die in a horrifying chemical explosion next year.)
 
-<div class="whom">k</div>
-
 !SLIDE
 
 ![](images/c42-dark.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
 ![](images/rubymonk-logo-dark.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
 ![](images/nilenso.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -121,7 +119,7 @@ She does not meet competition.<br/>
 </span>
 ...
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -129,7 +127,7 @@ She does not meet competition.<br/>
 
 ![](images/bicycle-build.jpg)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -205,6 +203,8 @@ She does not meet competition.<br/>
 <div class="whom">k</div>
 
 !SLIDE
+
+# Lao Tzu
 
 ![](images/lao-tzu-riding-an-ox.jpg)
 
@@ -518,7 +518,7 @@ Tao in the world is like a river flowing home to the sea.<br/>
 
 !SLIDE
 
-# "interpreter"?
+# Interpreter: a "design pattern"?
 
 <div class="whom">k</div>
 
@@ -544,12 +544,6 @@ Perhaps it is the mother of ten thousand things.<br/>
 
 !SLIDE
 
-# 2 hard problems.
-
-<div class="whom">k</div>
-
-!SLIDE
-
 # the nameless.
 
 <br/>
@@ -557,6 +551,12 @@ QWAN<br/>
 "the first parameter"<br/>
 
 <div class="whom">s</div>
+
+!SLIDE
+
+# 2 hard problems.
+
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -604,12 +604,6 @@ end
 
 !SLIDE
 
-# TODO: a pompous name?
-
-<div class="whom">k</div>
-
-!SLIDE
-
 #### → what is the tao te ching?
 #### → a warning.
 #### → on naming.
@@ -643,6 +637,29 @@ The ten thousand things rise and fall without cease,<br/>
 ![](images/_why-quote-1.png)
 
 <div class="whom">k</div>
+
+!SLIDE
+
+# poem #23
+
+<br/>
+To talk little is natural.<br/>
+<span class="highlight">
+  High winds do not last all morning.<br/>
+  Heavy rain does not last all day.<br/>
+</span>
+  Why is this? Heaven and Earth!<br/>
+<span class="highlight">
+  If heaven and Earth cannot make things eternal,<br/>
+  How is it possible for man?<br/>
+</span>
+...<br/>
+When you are at one with loss,<br/>
+The loss is experienced willingly.<br/>
+He who does not trust enough<br/>
+Will not be trusted.<br/>
+
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -707,29 +724,6 @@ Therefore it lasts forever.<br/>
 </video>
 
 <div class="whom">k</div>
-
-!SLIDE
-
-# poem #23
-
-<br/>
-To talk little is natural.<br/>
-<span class="highlight">
-  High winds do not last all morning.<br/>
-  Heavy rain does not last all day.<br/>
-</span>
-  Why is this? Heaven and Earth!<br/>
-<span class="highlight">
-  If heaven and Earth cannot make things eternal,<br/>
-  How is it possible for man?<br/>
-</span>
-...<br/>
-When you are at one with loss,<br/>
-The loss is experienced willingly.<br/>
-He who does not trust enough<br/>
-Will not be trusted.<br/>
-
-<div class="whom">s</div>
 
 !SLIDE
 
@@ -798,7 +792,7 @@ It is the holes which make it useful.<br/>
 # the not-there.
 
 <br/>
-runtime, pointers/references<br/>
+runtime, pointers/references, the GC<br/>
 cpu caches, words in memory, electricity (it is a machine)<br/>
 undiscovered data structures in your design<br/>
 
@@ -1249,6 +1243,9 @@ debugging state<br/>
 # === Global TODOs:
 
 # 2. TODO: fix css colours for code blocks
-# 3. TODO: fix slide header alignment on macbook air
-# 4. TODO: add ellipses to long poems ^
+# 3. TODO: resize css?
+# 4. TODO: time slides?
+# 5. TODO: title song? :)
+# 6. TODO: fix slide header alignment on macbook air
+# 7. TODO: add ellipses to long poems ^
 
