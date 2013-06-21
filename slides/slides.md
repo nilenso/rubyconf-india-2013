@@ -4,7 +4,8 @@
 
 # Tao of Ruby
 
-# &nbsp;
+<audio src="videos/giraffe.mp3" preload="auto" controls >
+</audio>
 
 ## kitallis@nilenso.com<br/>steven@nilenso.com
 
@@ -547,7 +548,7 @@ Perhaps it is the mother of ten thousand things.<br/>
 # the nameless.
 
 <br/>
-QWAN<br/>
+Alexander: QWAN<br/>
 "the first parameter"<br/>
 
 <div class="whom">s</div>
@@ -762,7 +763,7 @@ Amass a store of gold and jade, and no one can protect it.<br/>
 #### <span class="highlight">→ on usefulness.</span>
 #### → on effortlessness.
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -781,7 +782,7 @@ It is the holes which make it useful.<br/>
   Usefulness from what is not there.<br/>
 </span>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -792,7 +793,7 @@ runtime, pointers/references, the GC<br/>
 cpu caches, words in memory, electricity (it is a machine)<br/>
 undiscovered data structures in your design<br/>
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -808,7 +809,7 @@ Frappuccino::Stream.new(@input).
   on_value {|stanza| @output.call(stanza) }
 @@@
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -1076,7 +1077,7 @@ A terrace nine stories high begins with a pile of earth;<br/>
 
 ![](images/cook-ting.jpg)
 
-<div class="whom">s</div>
+<div class="whom">k</div>
 
 !NOTES
 
@@ -1205,6 +1206,18 @@ debugging state<br/>
 - editing repetitive code instead of creating an abstraction for structural duplication
 - puts'ing values and re-running your app manually instead of TDD/repl
 - using a debugger to observe state changes instead of removing them from your program's flow
+
+!SLIDE
+
+# we wish you:
+
+# &nbsp;
+
+- wu-wei (in your actions)
+- appreciation (of that which is hard to see)
+- comfort (in the death of your creations)
+- good luck (naming your symbols)
+- fun!
 
 !SLIDE
 

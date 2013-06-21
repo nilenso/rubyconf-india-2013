@@ -1,5 +1,6 @@
 
 - slides
+  - turn down the giraffes volume to almost-bottom
   - make sure the coop pie chart colours don't look stupid
 
 - terminal
