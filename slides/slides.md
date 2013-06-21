@@ -829,7 +829,8 @@ Got my hand burned while I was cooking<br/>
 
 !SLIDE
 
-# Therefore _benefit_ comes from what _is there_;
+# Therefore _benefit_ comes 
+# from what _is there_;
 
 <br/>
 local state<br/>
@@ -839,7 +840,8 @@ we still have to write some code<br/>
 
 !SLIDE
 
-# _Usefulness_ from what is _not there_.
+# _Usefulness_ from 
+# what is _not there_.
 
 <br/>
 shared state<br/>
