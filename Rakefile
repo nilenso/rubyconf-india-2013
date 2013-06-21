@@ -32,6 +32,7 @@ def generate
   sh "cd slides && keydown slides '#{in_file}'"
   fix_codemirror_js
   fix_codemirror_css
+  fix_deckjs_navigation
 end
 
 def fix_codemirror_js
@@ -48,6 +49,13 @@ def fix_codemirror_css
   css = File.read(keydown_css)
   css.gsub!(fontsize, "font-size: 1.8rem")
   File.open(keydown_css, "w") { |f| f.write(css) }
+end
+
+def fix_deckjs_navigation
+  nav = '<link href="deck.js/extensions/navigation/deck.navigation.css" rel="stylesheet" type="text/css"/>'
+  all = File.read(output)
+  all.gsub!(nav, "")
+  File.open(output, "w") { |f| f.write(all) }  
 end
 
 def slides_dir ; "slides" end

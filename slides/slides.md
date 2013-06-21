@@ -632,8 +632,6 @@ The ten thousand things rise and fall without cease,<br/>
 
 !SLIDE
 
-# TODO: resize why quote
-
 ![](images/_why-quote-1.png)
 
 <div class="whom">k</div>
@@ -663,11 +661,9 @@ Will not be trusted.<br/>
 
 !SLIDE
 
-# TODO: resize why quote#2
-
 ![](images/_why-quote-2.png)
 
-<div class="whom">k</div>
+<div class="whom">s</div>
 
 !SLIDE
 
@@ -836,11 +832,6 @@ Elvyn quad is a disgrace this morning<br/>
 Up early and studying<br/>
 the end of the year is so boring<br/>
 Got my hand burned while I was cooking<br/>
-<br/>
-Vamping and Blowing<br/>
-Woensdag eindelijk , week is doormidden<br/>
-I love proving people is wrong<br/>
-ontdooien die hap, is vast nog wol te drinken<br/>
 
 <div class="whom">k</div>
 
@@ -975,8 +966,6 @@ Never take advantage of power.<br/>
 <div class="whom">s</div>
 
 !SLIDE
-
-# TODO: resize why null
 
 ![](images/_why-fighting-null.png)
 
@@ -1168,7 +1157,8 @@ No fight: No blame.<br/>
 
 !SLIDE
 
-# "everything became effortless."
+# "everything 
+# became effortless."
 
 <video src="videos/kay-clip-3.mp4" controls width="640" height="480">
   Your browser does not support the <code>video</code> element.
@@ -1178,7 +1168,8 @@ No fight: No blame.<br/>
 
 !SLIDE
 
-# "I wouldn't have believed possible."
+# "I wouldn't have 
+# believed possible."
 
 <video src="videos/kay-clip-4.mp4" controls width="640" height="480">
   Your browser does not support the <code>video</code> element.
@@ -1188,7 +1179,8 @@ No fight: No blame.<br/>
 
 !SLIDE
 
-# "a lot of practice... in staying a beginner."
+# "a lot of practice... 
+# in staying a beginner."
 
 <video src="videos/kay-clip-5.mp4" controls width="640" height="480">
   Your browser does not support the <code>video</code> element.
@@ -1233,6 +1225,8 @@ debugging state<br/>
 
 ![](images/nilenso.png)
 
+!SLIDE
+
 ### THANKS!
 
 #### github.com/nilenso/tao-of-ruby-talk<br/> 
@@ -1242,8 +1236,7 @@ debugging state<br/>
 
 # === Global TODOs:
 
-# 2. TODO: fix css colours for code blocks
-# 3. TODO: resize css?
+# 2. TODO: fix css colours & size for code blocks
 # 4. TODO: time slides?
 # 5. TODO: title song? :)
 # 6. TODO: fix slide header alignment on macbook air
