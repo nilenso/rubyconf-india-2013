@@ -13,7 +13,7 @@
 
 # who are we?
 
-<div class="whom">s</div>
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -21,7 +21,7 @@
 
 # @deobald
 
-<div class="whom">s</div>
+<div class="whom">k</div>
 
 !NOTES
 
@@ -33,19 +33,19 @@ kitty is at the beginning of his career, I am at the end of mine.
 
 ![](images/c42-dark.png)
 
-<div class="whom">s</div>
+<div class="whom">k</div>
 
 !SLIDE
 
 ![](images/rubymonk-logo-dark.png)
 
-<div class="whom">s</div>
+<div class="whom">k</div>
 
 !SLIDE
 
 ![](images/nilenso.png)
 
-<div class="whom">s</div>
+<div class="whom">k</div>
 
 !SLIDE
 
@@ -519,7 +519,8 @@ Tao in the world is like a river flowing home to the sea.<br/>
 
 !SLIDE
 
-# Interpreter: a "design pattern"?
+# Interpreter: 
+# a "design pattern"?
 
 <div class="whom">k</div>
 
@@ -746,16 +747,6 @@ Amass a store of gold and jade, and no one can protect it.<br/>
 
 !SLIDE
 
-# TODO: 1. voyeurb backup video
-
-# TODO: 2. voyeurb: fix x/y animation
-
-# TODO: 3. voyeurb: fix race condition
-
-<div class="whom">k</div>
-
-!SLIDE
-
 #### → what is the tao te ching?
 #### → a warning.
 #### → on naming.
@@ -974,7 +965,8 @@ Never take advantage of power.<br/>
 
 !SLIDE
 
-# "Why Maybe is Better Than Null"
+# "Why Maybe is 
+# Better Than Null"
 
 # &nbsp;
 
@@ -1244,14 +1236,3 @@ debugging state<br/>
 
 #### github.com/nilenso/tao-of-ruby-talk<br/> 
 @kitallis / @deobald
-
-!NOTES
-
-# === Global TODOs:
-
-# 2. TODO: fix css colours & size for code blocks
-# 4. TODO: time slides?
-# 5. TODO: title song? :)
-# 6. TODO: fix slide header alignment on macbook air
-# 7. TODO: add ellipses to long poems ^
-

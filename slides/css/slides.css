@@ -71,24 +71,35 @@
 
 /* default.css overrides: */
 
-.cm-s-default span.cm-keyword {color: #708;}
-.cm-s-default span.cm-atom {color: #219;}
-.cm-s-default span.cm-number {color: #F92672; } /* #164 */
-.cm-s-default span.cm-def {color: #00f;}
+/* block param: def (rubyconf2013: #f8337d)
+   method: def
+   class: tag
+   string: string
+   instance var: variable-2
+   keyword: keyword
+   symbol: atom (almost-molokai docstring)
+   number: number (almost-molokai builtin)
+*/
+
+.cm-s-default span.cm-keyword {color: #66D9EF; } /* #708 */
+.cm-s-default span.cm-atom {color: #65B042; } /* #219 */
+.cm-s-default span.cm-number {color: #A6E22A; } /* #F92672 #164 */
+.cm-s-default span.cm-def {color: #f8337d; } /* #F1266F #00f */
 .cm-s-default span.cm-variable {color: #eee;}
-.cm-s-default span.cm-variable-2 {color: #05a;}
+.cm-s-default span.cm-variable-2 {color: #A6E22A; } /* #05a */
 .cm-s-default span.cm-variable-3 {color: #0a5;}
 .cm-s-default span.cm-property {color: #eee;}
 .cm-s-default span.cm-operator {color: #eee;}
-.cm-s-default span.cm-comment {color: #a50;}
-.cm-s-default span.cm-string {color: #a11;}
+.cm-s-default span.cm-comment {color: rgb(153, 147, 119); }
+/* #75715D #a50 */
+.cm-s-default span.cm-string {color: #DFD874; } /* #a11 */
 .cm-s-default span.cm-string-2 {color: #f50;}
 .cm-s-default span.cm-meta {color: #555;}
 .cm-s-default span.cm-error {color: #f00;}
 .cm-s-default span.cm-qualifier {color: #555;}
 .cm-s-default span.cm-builtin {color: #30a;}
 .cm-s-default span.cm-bracket {color: #cc7;}
-.cm-s-default span.cm-tag {color: #AE81FF; } /* #170 */
+.cm-s-default span.cm-tag {color: #89BDFF; } /* #AE81FF #170 */
 .cm-s-default span.cm-attribute {color: #00c;}
 
 .cm-s-default span.cm-null { color: #eee; }
@@ -115,11 +126,17 @@ table#owns td:nth-of-type(2):after {
   content: "%";
 }
 
-/* this is to fix the weird 34% auto-scale from keydown: */
+/* fix the weird 34% auto-scale from keydown: */
 body {
   -webkit-transform: none !important;
 }
 
 .deck-prev-link, .deck-next-link {
   display: none;
+}
+
+/* fix the code blocks getting too big, na */
+
+.keydown.deck-container .slide .content .CodeMirror {
+  font-size: 1.2rem;
 }
